@@ -1,0 +1,52 @@
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+
+#shiny-tab-dashboard {
+
+width: 100%;
+height: 700px;
+}
+
+#shiny-tab-dashboard  > * {
+  text-align: center;
+}
+
+
+.HomepageText {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #000099;
+}
+
+.shiny-notification {
+       position:fixed;
+       top: calc(32%);
+       left: calc(50%);
+	   width: 20%;
+	   height:100px;
+	   font-size:16px;
+	   
+       }
+	   
+#loginpage {
+  background-image: url("background8.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 900px;
+}	  
+
+#loginpop {
+	background-image: url("MarketingIcon.png");
+	width: 30%; 
+	margin: 5% auto;
+}	
+
+
+.irs-from, .irs-to, .irs-min, .irs-max {
+            font-size: 14px !important;
+    }
+	

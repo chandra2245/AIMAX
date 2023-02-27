@@ -1,0 +1,1231 @@
+"DISPLAY_BRAND_NAME","CUSTOMER_TYPE_DESCRIPTION","Sum","Date"
+"CREON","?",3,2018-09-01
+"ELAGOLIX","?",1,2018-09-01
+"HUMIRA","?",1,2018-01-01
+"HUMIRA","?",1,2018-11-01
+"HUMIRA","?",1,2019-05-01
+"HUMIRA","?",2,2019-08-01
+"HUMIRA","?",2,2019-09-01
+"MAVYRET","?",1,2019-08-01
+"HUMIRA","Academic",1,2019-09-01
+"LUPRON DEPOT","Academic",2,2018-08-01
+"LUPRON DEPOT","Academic",1,2019-05-01
+"LUPRON DEPOT","Academic",1,2019-09-01
+"MAVYRET","Academic",4,2018-04-01
+"MAVYRET","Academic",1,2019-06-01
+"CREON","Admin Asst",1,2018-08-01
+"CREON","Admin Asst",1,2018-09-01
+"ELAGOLIX","Admin Asst",1,2018-10-01
+"ELAGOLIX","Admin Asst",1,2019-07-01
+"HUMIRA","Admin Asst",7,2017-03-01
+"HUMIRA","Admin Asst",3,2017-04-01
+"HUMIRA","Admin Asst",3,2017-05-01
+"HUMIRA","Admin Asst",2,2017-06-01
+"HUMIRA","Admin Asst",1,2017-08-01
+"HUMIRA","Admin Asst",3,2017-09-01
+"HUMIRA","Admin Asst",9,2017-10-01
+"HUMIRA","Admin Asst",2,2017-11-01
+"HUMIRA","Admin Asst",3,2017-12-01
+"HUMIRA","Admin Asst",6,2018-01-01
+"HUMIRA","Admin Asst",1,2018-02-01
+"HUMIRA","Admin Asst",4,2018-03-01
+"HUMIRA","Admin Asst",5,2018-04-01
+"HUMIRA","Admin Asst",3,2018-05-01
+"HUMIRA","Admin Asst",5,2018-06-01
+"HUMIRA","Admin Asst",1,2018-07-01
+"HUMIRA","Admin Asst",12,2018-08-01
+"HUMIRA","Admin Asst",7,2018-09-01
+"HUMIRA","Admin Asst",3,2018-10-01
+"HUMIRA","Admin Asst",1,2018-11-01
+"HUMIRA","Admin Asst",7,2019-02-01
+"HUMIRA","Admin Asst",1,2019-03-01
+"HUMIRA","Admin Asst",7,2019-04-01
+"HUMIRA","Admin Asst",4,2019-06-01
+"HUMIRA","Admin Asst",1,2019-07-01
+"HUMIRA","Admin Asst",5,2019-08-01
+"HUMIRA","Admin Asst",7,2019-09-01
+"LUPRON DEPOT","Admin Asst",1,2017-04-01
+"LUPRON DEPOT","Admin Asst",1,2017-06-01
+"LUPRON DEPOT","Admin Asst",2,2018-08-01
+"LUPRON DEPOT","Admin Asst",1,2019-02-01
+"LUPRON DEPOT","Admin Asst",4,2019-09-01
+"MAVYRET","Admin Asst",3,2017-08-01
+"MAVYRET","Admin Asst",1,2018-04-01
+"MAVYRET","Admin Asst",1,2019-02-01
+"MAVYRET","Admin Asst",1,2019-04-01
+"CREON","Clinic",1,2018-06-01
+"HUMIRA","Clinic",1,2018-05-01
+"HUMIRA","Clinic",2,2019-06-01
+"HUMIRA","Clinic",1,2019-07-01
+"HUMIRA","Clinic",3,2019-08-01
+"HUMIRA","Clinic",2,2019-09-01
+"LUPRON DEPOT","Clinic",3,2018-03-01
+"LUPRON DEPOT","Clinic",1,2018-04-01
+"LUPRON DEPOT","Clinic",1,2018-07-01
+"LUPRON DEPOT","Clinic",2,2018-08-01
+"LUPRON DEPOT","Clinic",1,2019-01-01
+"LUPRON DEPOT","Clinic",1,2019-02-01
+"LUPRON DEPOT","Clinic",1,2019-06-01
+"LUPRON DEPOT","Clinic",2,2019-07-01
+"LUPRON DEPOT","Clinic",3,2019-08-01
+"LUPRON DEPOT","Clinic",3,2019-09-01
+"MAVYRET","Clinic",2,2018-03-01
+"MAVYRET","Clinic",2,2018-04-01
+"MAVYRET","Clinic",1,2018-09-01
+"MAVYRET","Clinic",2,2019-01-01
+"MAVYRET","Clinic",16,2019-02-01
+"MAVYRET","Clinic",8,2019-03-01
+"MAVYRET","Clinic",6,2019-04-01
+"MAVYRET","Clinic",13,2019-05-01
+"MAVYRET","Clinic",5,2019-06-01
+"MAVYRET","Clinic",2,2019-07-01
+"MAVYRET","Clinic",4,2019-08-01
+"MAVYRET","Clinic",3,2019-09-01
+"CREON","Corporate Parent",2,2018-07-01
+"CREON","Corporate Parent",2,2018-09-01
+"CREON","Corporate Parent",2,2018-10-01
+"CREON","Corporate Parent",1,2018-11-01
+"CREON","Corporate Parent",1,2019-01-01
+"CREON","Corporate Parent",1,2019-03-01
+"CREON","Corporate Parent",1,2019-08-01
+"CREON","Corporate Parent",4,2019-09-01
+"HUMIRA","Corporate Parent",3,2017-02-01
+"HUMIRA","Corporate Parent",2,2017-03-01
+"HUMIRA","Corporate Parent",2,2017-04-01
+"HUMIRA","Corporate Parent",2,2017-06-01
+"HUMIRA","Corporate Parent",2,2017-08-01
+"HUMIRA","Corporate Parent",2,2017-09-01
+"HUMIRA","Corporate Parent",4,2017-10-01
+"HUMIRA","Corporate Parent",3,2017-11-01
+"HUMIRA","Corporate Parent",2,2018-01-01
+"HUMIRA","Corporate Parent",1,2018-02-01
+"HUMIRA","Corporate Parent",3,2018-03-01
+"HUMIRA","Corporate Parent",1,2018-04-01
+"HUMIRA","Corporate Parent",1,2018-05-01
+"HUMIRA","Corporate Parent",1,2018-06-01
+"HUMIRA","Corporate Parent",3,2018-07-01
+"HUMIRA","Corporate Parent",2,2018-09-01
+"HUMIRA","Corporate Parent",4,2018-11-01
+"HUMIRA","Corporate Parent",2,2018-12-01
+"HUMIRA","Corporate Parent",1,2019-02-01
+"HUMIRA","Corporate Parent",2,2019-04-01
+"HUMIRA","Corporate Parent",7,2019-05-01
+"HUMIRA","Corporate Parent",5,2019-06-01
+"HUMIRA","Corporate Parent",4,2019-07-01
+"HUMIRA","Corporate Parent",5,2019-09-01
+"LUPRON DEPOT","Corporate Parent",1,2018-05-01
+"LUPRON DEPOT","Corporate Parent",2,2018-08-01
+"LUPRON DEPOT","Corporate Parent",1,2018-09-01
+"LUPRON DEPOT","Corporate Parent",2,2018-10-01
+"LUPRON DEPOT","Corporate Parent",2,2019-01-01
+"LUPRON DEPOT","Corporate Parent",1,2019-05-01
+"LUPRON DEPOT","Corporate Parent",5,2019-08-01
+"MAVYRET","Corporate Parent",3,2018-03-01
+"MAVYRET","Corporate Parent",7,2018-04-01
+"MAVYRET","Corporate Parent",3,2018-05-01
+"MAVYRET","Corporate Parent",2,2018-06-01
+"MAVYRET","Corporate Parent",1,2018-07-01
+"MAVYRET","Corporate Parent",2,2018-09-01
+"MAVYRET","Corporate Parent",9,2019-02-01
+"MAVYRET","Corporate Parent",10,2019-03-01
+"MAVYRET","Corporate Parent",2,2019-05-01
+"MAVYRET","Corporate Parent",1,2019-08-01
+"MAVYRET","Corporate Parent",2,2019-09-01
+"MAVYRET","Correctional Facility",2,2018-05-01
+"MAVYRET","Correctional Facility",1,2019-03-01
+"MAVYRET","Correctional Facility",1,2019-05-01
+"CREON","Dentist",1,2019-04-01
+"CREON","Dentist",1,2019-05-01
+"CREON","Dentist",1,2019-08-01
+"ELAGOLIX","Executive",2,2019-08-01
+"HUMIRA","Executive",2,2017-03-01
+"HUMIRA","Executive",1,2017-04-01
+"HUMIRA","Executive",1,2017-08-01
+"HUMIRA","Executive",1,2018-06-01
+"HUMIRA","Executive",1,2018-09-01
+"HUMIRA","Executive",1,2018-12-01
+"HUMIRA","Executive",1,2019-02-01
+"HUMIRA","Executive",2,2019-09-01
+"Lupron Depot","Executive",2,2018-07-01
+"Lupron Depot","Executive",1,2019-06-01
+"Lupron Depot","Executive",1,2019-07-01
+"MAVYRET","Executive",2,2018-03-01
+"MAVYRET","Executive",2,2019-03-01
+"MAVYRET","Executive",2,2019-05-01
+"CREON","Group Practice",1,2018-06-01
+"CREON","Group Practice",6,2018-07-01
+"CREON","Group Practice",3,2018-08-01
+"CREON","Group Practice",6,2018-09-01
+"CREON","Group Practice",3,2018-10-01
+"CREON","Group Practice",2,2018-11-01
+"CREON","Group Practice",3,2019-01-01
+"CREON","Group Practice",3,2019-02-01
+"CREON","Group Practice",1,2019-04-01
+"CREON","Group Practice",3,2019-07-01
+"CREON","Group Practice",2,2019-08-01
+"CREON","Group Practice",1,2019-09-01
+"HUMIRA","Group Practice",3,2017-02-01
+"HUMIRA","Group Practice",6,2017-03-01
+"HUMIRA","Group Practice",2,2017-04-01
+"HUMIRA","Group Practice",5,2017-05-01
+"HUMIRA","Group Practice",8,2017-06-01
+"HUMIRA","Group Practice",2,2017-07-01
+"HUMIRA","Group Practice",2,2017-08-01
+"HUMIRA","Group Practice",1,2017-09-01
+"HUMIRA","Group Practice",5,2017-10-01
+"HUMIRA","Group Practice",5,2017-11-01
+"HUMIRA","Group Practice",7,2018-01-01
+"HUMIRA","Group Practice",3,2018-02-01
+"HUMIRA","Group Practice",4,2018-03-01
+"HUMIRA","Group Practice",11,2018-04-01
+"HUMIRA","Group Practice",6,2018-05-01
+"HUMIRA","Group Practice",1,2018-06-01
+"HUMIRA","Group Practice",2,2018-07-01
+"HUMIRA","Group Practice",2,2018-08-01
+"HUMIRA","Group Practice",3,2018-09-01
+"HUMIRA","Group Practice",5,2018-10-01
+"HUMIRA","Group Practice",2,2018-11-01
+"HUMIRA","Group Practice",2,2018-12-01
+"HUMIRA","Group Practice",3,2019-02-01
+"HUMIRA","Group Practice",1,2019-03-01
+"HUMIRA","Group Practice",2,2019-04-01
+"HUMIRA","Group Practice",6,2019-05-01
+"HUMIRA","Group Practice",15,2019-06-01
+"HUMIRA","Group Practice",15,2019-07-01
+"HUMIRA","Group Practice",67,2019-08-01
+"HUMIRA","Group Practice",63,2019-09-01
+"LUPRON DEPOT","Group Practice",4,2018-03-01
+"LUPRON DEPOT","Group Practice",2,2018-05-01
+"LUPRON DEPOT","Group Practice",4,2018-06-01
+"LUPRON DEPOT","Group Practice",3,2018-07-01
+"LUPRON DEPOT","Group Practice",14,2018-08-01
+"LUPRON DEPOT","Group Practice",4,2018-09-01
+"LUPRON DEPOT","Group Practice",9,2018-10-01
+"LUPRON DEPOT","Group Practice",9,2018-11-01
+"LUPRON DEPOT","Group Practice",1,2019-01-01
+"LUPRON DEPOT","Group Practice",2,2019-02-01
+"LUPRON DEPOT","Group Practice",2,2019-03-01
+"LUPRON DEPOT","Group Practice",6,2019-05-01
+"LUPRON DEPOT","Group Practice",3,2019-06-01
+"LUPRON DEPOT","Group Practice",3,2019-07-01
+"LUPRON DEPOT","Group Practice",8,2019-08-01
+"LUPRON DEPOT","Group Practice",2,2019-09-01
+"MAVYRET","Group Practice",1,2017-10-01
+"MAVYRET","Group Practice",10,2018-03-01
+"MAVYRET","Group Practice",6,2018-04-01
+"MAVYRET","Group Practice",6,2018-05-01
+"MAVYRET","Group Practice",1,2018-07-01
+"MAVYRET","Group Practice",3,2018-09-01
+"MAVYRET","Group Practice",2,2018-10-01
+"MAVYRET","Group Practice",4,2019-01-01
+"MAVYRET","Group Practice",26,2019-02-01
+"MAVYRET","Group Practice",18,2019-03-01
+"MAVYRET","Group Practice",4,2019-04-01
+"MAVYRET","Group Practice",14,2019-05-01
+"MAVYRET","Group Practice",9,2019-06-01
+"MAVYRET","Group Practice",1,2019-07-01
+"MAVYRET","Group Practice",6,2019-08-01
+"MAVYRET","Group Practice",7,2019-09-01
+"CREON","Hospital",1,2018-06-01
+"CREON","Hospital",1,2018-07-01
+"CREON","Hospital",2,2018-10-01
+"CREON","Hospital",2,2019-03-01
+"CREON","Hospital",2,2019-04-01
+"CREON","Hospital",1,2019-06-01
+"CREON","Hospital",1,2019-07-01
+"HUMIRA","Hospital",19,2017-02-01
+"HUMIRA","Hospital",11,2017-03-01
+"HUMIRA","Hospital",7,2017-04-01
+"HUMIRA","Hospital",11,2017-05-01
+"HUMIRA","Hospital",5,2017-06-01
+"HUMIRA","Hospital",4,2017-07-01
+"HUMIRA","Hospital",4,2017-08-01
+"HUMIRA","Hospital",3,2017-09-01
+"HUMIRA","Hospital",10,2017-10-01
+"HUMIRA","Hospital",4,2017-11-01
+"HUMIRA","Hospital",2,2018-01-01
+"HUMIRA","Hospital",2,2018-02-01
+"HUMIRA","Hospital",9,2018-03-01
+"HUMIRA","Hospital",1,2018-04-01
+"HUMIRA","Hospital",7,2018-05-01
+"HUMIRA","Hospital",7,2018-06-01
+"HUMIRA","Hospital",3,2018-07-01
+"HUMIRA","Hospital",1,2018-08-01
+"HUMIRA","Hospital",8,2018-09-01
+"HUMIRA","Hospital",5,2018-10-01
+"HUMIRA","Hospital",3,2018-11-01
+"HUMIRA","Hospital",2,2018-12-01
+"HUMIRA","Hospital",4,2019-01-01
+"HUMIRA","Hospital",5,2019-02-01
+"HUMIRA","Hospital",3,2019-03-01
+"HUMIRA","Hospital",1,2019-04-01
+"HUMIRA","Hospital",13,2019-05-01
+"HUMIRA","Hospital",12,2019-06-01
+"HUMIRA","Hospital",9,2019-07-01
+"HUMIRA","Hospital",12,2019-08-01
+"HUMIRA","Hospital",9,2019-09-01
+"LUPRON DEPOT","Hospital",6,2018-02-01
+"LUPRON DEPOT","Hospital",10,2018-03-01
+"LUPRON DEPOT","Hospital",5,2018-04-01
+"LUPRON DEPOT","Hospital",26,2018-05-01
+"LUPRON DEPOT","Hospital",14,2018-06-01
+"LUPRON DEPOT","Hospital",73,2018-07-01
+"LUPRON DEPOT","Hospital",36,2018-08-01
+"LUPRON DEPOT","Hospital",13,2018-09-01
+"LUPRON DEPOT","Hospital",103,2018-10-01
+"LUPRON DEPOT","Hospital",42,2018-11-01
+"LUPRON DEPOT","Hospital",34,2018-12-01
+"LUPRON DEPOT","Hospital",22,2019-01-01
+"LUPRON DEPOT","Hospital",13,2019-02-01
+"LUPRON DEPOT","Hospital",2,2019-03-01
+"LUPRON DEPOT","Hospital",2,2019-04-01
+"LUPRON DEPOT","Hospital",12,2019-05-01
+"LUPRON DEPOT","Hospital",25,2019-06-01
+"LUPRON DEPOT","Hospital",22,2019-07-01
+"LUPRON DEPOT","Hospital",30,2019-08-01
+"LUPRON DEPOT","Hospital",29,2019-09-01
+"MAVYRET","Hospital",1,2017-10-01
+"MAVYRET","Hospital",10,2018-03-01
+"MAVYRET","Hospital",4,2018-04-01
+"MAVYRET","Hospital",5,2018-05-01
+"MAVYRET","Hospital",5,2018-07-01
+"MAVYRET","Hospital",3,2018-09-01
+"MAVYRET","Hospital",1,2018-10-01
+"MAVYRET","Hospital",20,2019-02-01
+"MAVYRET","Hospital",26,2019-03-01
+"MAVYRET","Hospital",14,2019-05-01
+"MAVYRET","Hospital",3,2019-06-01
+"MAVYRET","Hospital",1,2019-07-01
+"MAVYRET","Hospital",10,2019-08-01
+"MAVYRET","Hospital",6,2019-09-01
+"HUMIRA","Independent Physician Practice",1,2017-06-01
+"HUMIRA","Independent Physician Practice",3,2017-11-01
+"HUMIRA","Independent Physician Practice",1,2018-06-01
+"HUMIRA","Independent Physician Practice",1,2018-07-01
+"HUMIRA","Independent Physician Practice",1,2019-06-01
+"HUMIRA","Independent Physician Practice",4,2019-08-01
+"HUMIRA","Independent Physician Practice",4,2019-09-01
+"MAVYRET","Independent Physician Practice",1,2019-03-01
+"MAVYRET","Independent Physician Practice",1,2019-04-01
+"MAVYRET","Independent Physician Practice",1,2019-05-01
+"MAVYRET","Independent Physician Practice",1,2019-06-01
+"MAVYRET","Managed Care Organization",1,2017-10-01
+"MAVYRET","Managed Care Organization",1,2018-04-01
+"CREON","Medical Assistant",1,2017-10-01
+"CREON","Medical Assistant",1,2017-11-01
+"CREON","Medical Assistant",2,2018-01-01
+"CREON","Medical Assistant",3,2018-02-01
+"CREON","Medical Assistant",2,2018-03-01
+"CREON","Medical Assistant",2,2018-04-01
+"CREON","Medical Assistant",1,2018-06-01
+"CREON","Medical Assistant",2,2018-07-01
+"CREON","Medical Assistant",3,2018-08-01
+"CREON","Medical Assistant",1,2018-09-01
+"CREON","Medical Assistant",2,2018-10-01
+"CREON","Medical Assistant",2,2019-06-01
+"CREON","Medical Assistant",2,2019-07-01
+"CREON","Medical Assistant",1,2019-08-01
+"ELAGOLIX","Medical Assistant",2,2019-05-01
+"ELAGOLIX","Medical Assistant",1,2019-06-01
+"HUMIRA","Medical Assistant",10,2017-03-01
+"HUMIRA","Medical Assistant",14,2017-04-01
+"HUMIRA","Medical Assistant",7,2017-05-01
+"HUMIRA","Medical Assistant",1,2017-06-01
+"HUMIRA","Medical Assistant",5,2017-07-01
+"HUMIRA","Medical Assistant",9,2017-08-01
+"HUMIRA","Medical Assistant",15,2017-09-01
+"HUMIRA","Medical Assistant",36,2017-10-01
+"HUMIRA","Medical Assistant",10,2017-11-01
+"HUMIRA","Medical Assistant",9,2017-12-01
+"HUMIRA","Medical Assistant",30,2018-01-01
+"HUMIRA","Medical Assistant",26,2018-02-01
+"HUMIRA","Medical Assistant",20,2018-03-01
+"HUMIRA","Medical Assistant",31,2018-04-01
+"HUMIRA","Medical Assistant",28,2018-05-01
+"HUMIRA","Medical Assistant",18,2018-06-01
+"HUMIRA","Medical Assistant",14,2018-07-01
+"HUMIRA","Medical Assistant",28,2018-08-01
+"HUMIRA","Medical Assistant",21,2018-09-01
+"HUMIRA","Medical Assistant",3,2018-10-01
+"HUMIRA","Medical Assistant",3,2018-11-01
+"HUMIRA","Medical Assistant",4,2018-12-01
+"HUMIRA","Medical Assistant",7,2019-01-01
+"HUMIRA","Medical Assistant",28,2019-02-01
+"HUMIRA","Medical Assistant",22,2019-03-01
+"HUMIRA","Medical Assistant",23,2019-04-01
+"HUMIRA","Medical Assistant",12,2019-05-01
+"HUMIRA","Medical Assistant",21,2019-06-01
+"HUMIRA","Medical Assistant",15,2019-07-01
+"HUMIRA","Medical Assistant",59,2019-08-01
+"HUMIRA","Medical Assistant",38,2019-09-01
+"Lupron Depot","Medical Assistant",4,2019-07-01
+"LUPRON DEPOT","Medical Assistant",2,2017-03-01
+"LUPRON DEPOT","Medical Assistant",3,2017-10-01
+"LUPRON DEPOT","Medical Assistant",1,2017-11-01
+"LUPRON DEPOT","Medical Assistant",1,2018-05-01
+"LUPRON DEPOT","Medical Assistant",4,2018-08-01
+"LUPRON DEPOT","Medical Assistant",1,2018-09-01
+"LUPRON DEPOT","Medical Assistant",1,2018-11-01
+"LUPRON DEPOT","Medical Assistant",1,2018-12-01
+"LUPRON DEPOT","Medical Assistant",2,2019-01-01
+"LUPRON DEPOT","Medical Assistant",1,2019-02-01
+"LUPRON DEPOT","Medical Assistant",1,2019-06-01
+"LUPRON DEPOT","Medical Assistant",3,2019-08-01
+"LUPRON DEPOT","Medical Assistant",2,2019-09-01
+"MAVYRET","Medical Assistant",32,2017-08-01
+"MAVYRET","Medical Assistant",5,2017-09-01
+"MAVYRET","Medical Assistant",1,2017-10-01
+"MAVYRET","Medical Assistant",1,2017-12-01
+"MAVYRET","Medical Assistant",1,2018-01-01
+"MAVYRET","Medical Assistant",15,2018-02-01
+"MAVYRET","Medical Assistant",22,2018-03-01
+"MAVYRET","Medical Assistant",11,2018-04-01
+"MAVYRET","Medical Assistant",4,2018-05-01
+"MAVYRET","Medical Assistant",2,2018-06-01
+"MAVYRET","Medical Assistant",1,2018-07-01
+"MAVYRET","Medical Assistant",4,2018-08-01
+"MAVYRET","Medical Assistant",1,2018-09-01
+"MAVYRET","Medical Assistant",1,2018-10-01
+"MAVYRET","Medical Assistant",1,2018-11-01
+"MAVYRET","Medical Assistant",3,2018-12-01
+"MAVYRET","Medical Assistant",2,2019-01-01
+"MAVYRET","Medical Assistant",5,2019-02-01
+"MAVYRET","Medical Assistant",2,2019-03-01
+"MAVYRET","Medical Assistant",6,2019-04-01
+"MAVYRET","Medical Assistant",8,2019-05-01
+"MAVYRET","Medical Assistant",6,2019-06-01
+"MAVYRET","Medical Assistant",1,2019-07-01
+"MAVYRET","Medical Assistant",2,2019-08-01
+"CREON","Nurse",2,2017-09-01
+"CREON","Nurse",3,2017-10-01
+"CREON","Nurse",2,2017-11-01
+"CREON","Nurse",2,2018-01-01
+"CREON","Nurse",1,2018-02-01
+"CREON","Nurse",1,2018-03-01
+"CREON","Nurse",9,2018-04-01
+"CREON","Nurse",2,2018-05-01
+"CREON","Nurse",1,2018-06-01
+"CREON","Nurse",2,2018-07-01
+"CREON","Nurse",19,2018-08-01
+"CREON","Nurse",8,2018-09-01
+"CREON","Nurse",4,2018-10-01
+"CREON","Nurse",3,2019-01-01
+"CREON","Nurse",1,2019-03-01
+"CREON","Nurse",4,2019-04-01
+"CREON","Nurse",2,2019-05-01
+"CREON","Nurse",1,2019-07-01
+"CREON","Nurse",2,2019-09-01
+"ELAGOLIX","Nurse",1,2018-10-01
+"ELAGOLIX","Nurse",3,2019-07-01
+"HUMIRA","Nurse",14,2017-03-01
+"HUMIRA","Nurse",7,2017-04-01
+"HUMIRA","Nurse",12,2017-05-01
+"HUMIRA","Nurse",5,2017-06-01
+"HUMIRA","Nurse",4,2017-07-01
+"HUMIRA","Nurse",5,2017-08-01
+"HUMIRA","Nurse",15,2017-09-01
+"HUMIRA","Nurse",35,2017-10-01
+"HUMIRA","Nurse",17,2017-11-01
+"HUMIRA","Nurse",5,2017-12-01
+"HUMIRA","Nurse",17,2018-01-01
+"HUMIRA","Nurse",31,2018-02-01
+"HUMIRA","Nurse",22,2018-03-01
+"HUMIRA","Nurse",34,2018-04-01
+"HUMIRA","Nurse",28,2018-05-01
+"HUMIRA","Nurse",29,2018-06-01
+"HUMIRA","Nurse",7,2018-07-01
+"HUMIRA","Nurse",73,2018-08-01
+"HUMIRA","Nurse",46,2018-09-01
+"HUMIRA","Nurse",12,2018-10-01
+"HUMIRA","Nurse",7,2018-11-01
+"HUMIRA","Nurse",1,2018-12-01
+"HUMIRA","Nurse",4,2019-01-01
+"HUMIRA","Nurse",23,2019-02-01
+"HUMIRA","Nurse",12,2019-03-01
+"HUMIRA","Nurse",23,2019-04-01
+"HUMIRA","Nurse",10,2019-05-01
+"HUMIRA","Nurse",26,2019-06-01
+"HUMIRA","Nurse",12,2019-07-01
+"HUMIRA","Nurse",22,2019-08-01
+"HUMIRA","Nurse",14,2019-09-01
+"Lupron Depot","Nurse",1,2018-09-01
+"Lupron Depot","Nurse",1,2019-07-01
+"Lupron Depot","Nurse",1,2019-08-01
+"Lupron Depot","Nurse",6,2019-09-01
+"LUPRON DEPOT","Nurse",2,2017-03-01
+"LUPRON DEPOT","Nurse",5,2017-04-01
+"LUPRON DEPOT","Nurse",1,2017-08-01
+"LUPRON DEPOT","Nurse",2,2017-10-01
+"LUPRON DEPOT","Nurse",1,2017-11-01
+"LUPRON DEPOT","Nurse",2,2018-02-01
+"LUPRON DEPOT","Nurse",4,2018-03-01
+"LUPRON DEPOT","Nurse",3,2018-04-01
+"LUPRON DEPOT","Nurse",9,2018-05-01
+"LUPRON DEPOT","Nurse",10,2018-06-01
+"LUPRON DEPOT","Nurse",22,2018-07-01
+"LUPRON DEPOT","Nurse",31,2018-08-01
+"LUPRON DEPOT","Nurse",7,2018-09-01
+"LUPRON DEPOT","Nurse",15,2018-10-01
+"LUPRON DEPOT","Nurse",1,2018-11-01
+"LUPRON DEPOT","Nurse",7,2018-12-01
+"LUPRON DEPOT","Nurse",8,2019-01-01
+"LUPRON DEPOT","Nurse",7,2019-02-01
+"LUPRON DEPOT","Nurse",1,2019-03-01
+"LUPRON DEPOT","Nurse",1,2019-04-01
+"LUPRON DEPOT","Nurse",11,2019-05-01
+"LUPRON DEPOT","Nurse",20,2019-06-01
+"LUPRON DEPOT","Nurse",14,2019-07-01
+"LUPRON DEPOT","Nurse",24,2019-08-01
+"LUPRON DEPOT","Nurse",16,2019-09-01
+"MAVYRET","Nurse",29,2017-08-01
+"MAVYRET","Nurse",2,2017-09-01
+"MAVYRET","Nurse",1,2017-10-01
+"MAVYRET","Nurse",1,2017-12-01
+"MAVYRET","Nurse",3,2018-01-01
+"MAVYRET","Nurse",18,2018-02-01
+"MAVYRET","Nurse",23,2018-03-01
+"MAVYRET","Nurse",9,2018-04-01
+"MAVYRET","Nurse",5,2018-05-01
+"MAVYRET","Nurse",1,2018-06-01
+"MAVYRET","Nurse",5,2018-07-01
+"MAVYRET","Nurse",1,2018-09-01
+"MAVYRET","Nurse",3,2018-10-01
+"MAVYRET","Nurse",1,2018-12-01
+"MAVYRET","Nurse",10,2019-01-01
+"MAVYRET","Nurse",14,2019-02-01
+"MAVYRET","Nurse",9,2019-03-01
+"MAVYRET","Nurse",10,2019-04-01
+"MAVYRET","Nurse",2,2019-05-01
+"MAVYRET","Nurse",5,2019-06-01
+"MAVYRET","Nurse",10,2019-07-01
+"MAVYRET","Nurse",3,2019-08-01
+"MAVYRET","Nurse",1,2019-09-01
+"CREON","Nurse Practitioner",1,2016-10-01
+"CREON","Nurse Practitioner",1,2016-11-01
+"CREON","Nurse Practitioner",2,2017-01-01
+"CREON","Nurse Practitioner",2,2017-02-01
+"CREON","Nurse Practitioner",1,2017-03-01
+"CREON","Nurse Practitioner",1,2017-04-01
+"CREON","Nurse Practitioner",3,2017-06-01
+"CREON","Nurse Practitioner",3,2017-07-01
+"CREON","Nurse Practitioner",12,2017-09-01
+"CREON","Nurse Practitioner",17,2017-10-01
+"CREON","Nurse Practitioner",10,2017-11-01
+"CREON","Nurse Practitioner",3,2017-12-01
+"CREON","Nurse Practitioner",9,2018-01-01
+"CREON","Nurse Practitioner",6,2018-02-01
+"CREON","Nurse Practitioner",22,2018-03-01
+"CREON","Nurse Practitioner",40,2018-04-01
+"CREON","Nurse Practitioner",32,2018-05-01
+"CREON","Nurse Practitioner",20,2018-06-01
+"CREON","Nurse Practitioner",25,2018-07-01
+"CREON","Nurse Practitioner",53,2018-08-01
+"CREON","Nurse Practitioner",34,2018-09-01
+"CREON","Nurse Practitioner",45,2018-10-01
+"CREON","Nurse Practitioner",41,2018-11-01
+"CREON","Nurse Practitioner",23,2018-12-01
+"CREON","Nurse Practitioner",30,2019-01-01
+"CREON","Nurse Practitioner",43,2019-02-01
+"CREON","Nurse Practitioner",39,2019-03-01
+"CREON","Nurse Practitioner",19,2019-04-01
+"CREON","Nurse Practitioner",52,2019-05-01
+"CREON","Nurse Practitioner",43,2019-06-01
+"CREON","Nurse Practitioner",53,2019-07-01
+"CREON","Nurse Practitioner",60,2019-08-01
+"CREON","Nurse Practitioner",39,2019-09-01
+"ELAGOLIX","Nurse Practitioner",1,2018-05-01
+"ELAGOLIX","Nurse Practitioner",1,2018-06-01
+"ELAGOLIX","Nurse Practitioner",1,2018-09-01
+"ELAGOLIX","Nurse Practitioner",2,2018-10-01
+"ELAGOLIX","Nurse Practitioner",1,2018-12-01
+"ELAGOLIX","Nurse Practitioner",6,2019-02-01
+"ELAGOLIX","Nurse Practitioner",1,2019-03-01
+"ELAGOLIX","Nurse Practitioner",8,2019-04-01
+"ELAGOLIX","Nurse Practitioner",3,2019-05-01
+"ELAGOLIX","Nurse Practitioner",14,2019-07-01
+"ELAGOLIX","Nurse Practitioner",6,2019-08-01
+"ELAGOLIX","Nurse Practitioner",1,2019-09-01
+"HUMIRA","Nurse Practitioner",4,2016-07-01
+"HUMIRA","Nurse Practitioner",18,2016-08-01
+"HUMIRA","Nurse Practitioner",20,2016-09-01
+"HUMIRA","Nurse Practitioner",20,2016-10-01
+"HUMIRA","Nurse Practitioner",21,2016-11-01
+"HUMIRA","Nurse Practitioner",8,2016-12-01
+"HUMIRA","Nurse Practitioner",29,2017-01-01
+"HUMIRA","Nurse Practitioner",46,2017-02-01
+"HUMIRA","Nurse Practitioner",175,2017-03-01
+"HUMIRA","Nurse Practitioner",174,2017-04-01
+"HUMIRA","Nurse Practitioner",114,2017-05-01
+"HUMIRA","Nurse Practitioner",79,2017-06-01
+"HUMIRA","Nurse Practitioner",64,2017-07-01
+"HUMIRA","Nurse Practitioner",144,2017-08-01
+"HUMIRA","Nurse Practitioner",139,2017-09-01
+"HUMIRA","Nurse Practitioner",212,2017-10-01
+"HUMIRA","Nurse Practitioner",166,2017-11-01
+"HUMIRA","Nurse Practitioner",103,2017-12-01
+"HUMIRA","Nurse Practitioner",166,2018-01-01
+"HUMIRA","Nurse Practitioner",135,2018-02-01
+"HUMIRA","Nurse Practitioner",145,2018-03-01
+"HUMIRA","Nurse Practitioner",148,2018-04-01
+"HUMIRA","Nurse Practitioner",175,2018-05-01
+"HUMIRA","Nurse Practitioner",213,2018-06-01
+"HUMIRA","Nurse Practitioner",103,2018-07-01
+"HUMIRA","Nurse Practitioner",281,2018-08-01
+"HUMIRA","Nurse Practitioner",212,2018-09-01
+"HUMIRA","Nurse Practitioner",105,2018-10-01
+"HUMIRA","Nurse Practitioner",108,2018-11-01
+"HUMIRA","Nurse Practitioner",92,2018-12-01
+"HUMIRA","Nurse Practitioner",86,2019-01-01
+"HUMIRA","Nurse Practitioner",180,2019-02-01
+"HUMIRA","Nurse Practitioner",135,2019-03-01
+"HUMIRA","Nurse Practitioner",107,2019-04-01
+"HUMIRA","Nurse Practitioner",112,2019-05-01
+"HUMIRA","Nurse Practitioner",89,2019-06-01
+"HUMIRA","Nurse Practitioner",96,2019-07-01
+"HUMIRA","Nurse Practitioner",152,2019-08-01
+"HUMIRA","Nurse Practitioner",136,2019-09-01
+"Lupron Depot","Nurse Practitioner",1,2019-07-01
+"LUPRON DEPOT","Nurse Practitioner",2,2017-10-01
+"LUPRON DEPOT","Nurse Practitioner",1,2018-02-01
+"LUPRON DEPOT","Nurse Practitioner",2,2018-03-01
+"LUPRON DEPOT","Nurse Practitioner",3,2018-04-01
+"LUPRON DEPOT","Nurse Practitioner",1,2018-05-01
+"LUPRON DEPOT","Nurse Practitioner",3,2018-06-01
+"LUPRON DEPOT","Nurse Practitioner",3,2018-07-01
+"LUPRON DEPOT","Nurse Practitioner",8,2018-08-01
+"LUPRON DEPOT","Nurse Practitioner",1,2018-09-01
+"LUPRON DEPOT","Nurse Practitioner",8,2018-10-01
+"LUPRON DEPOT","Nurse Practitioner",5,2018-11-01
+"LUPRON DEPOT","Nurse Practitioner",1,2019-01-01
+"LUPRON DEPOT","Nurse Practitioner",1,2019-02-01
+"LUPRON DEPOT","Nurse Practitioner",1,2019-03-01
+"LUPRON DEPOT","Nurse Practitioner",1,2019-05-01
+"LUPRON DEPOT","Nurse Practitioner",2,2019-06-01
+"LUPRON DEPOT","Nurse Practitioner",3,2019-07-01
+"LUPRON DEPOT","Nurse Practitioner",4,2019-08-01
+"MAVYRET","Nurse Practitioner",413,2017-08-01
+"MAVYRET","Nurse Practitioner",42,2017-09-01
+"MAVYRET","Nurse Practitioner",33,2017-10-01
+"MAVYRET","Nurse Practitioner",12,2017-11-01
+"MAVYRET","Nurse Practitioner",20,2017-12-01
+"MAVYRET","Nurse Practitioner",67,2018-01-01
+"MAVYRET","Nurse Practitioner",182,2018-02-01
+"MAVYRET","Nurse Practitioner",197,2018-03-01
+"MAVYRET","Nurse Practitioner",81,2018-04-01
+"MAVYRET","Nurse Practitioner",89,2018-05-01
+"MAVYRET","Nurse Practitioner",50,2018-06-01
+"MAVYRET","Nurse Practitioner",54,2018-07-01
+"MAVYRET","Nurse Practitioner",42,2018-08-01
+"MAVYRET","Nurse Practitioner",49,2018-09-01
+"MAVYRET","Nurse Practitioner",57,2018-10-01
+"MAVYRET","Nurse Practitioner",80,2018-11-01
+"MAVYRET","Nurse Practitioner",42,2018-12-01
+"MAVYRET","Nurse Practitioner",211,2019-01-01
+"MAVYRET","Nurse Practitioner",166,2019-02-01
+"MAVYRET","Nurse Practitioner",197,2019-03-01
+"MAVYRET","Nurse Practitioner",189,2019-04-01
+"MAVYRET","Nurse Practitioner",156,2019-05-01
+"MAVYRET","Nurse Practitioner",248,2019-06-01
+"MAVYRET","Nurse Practitioner",188,2019-07-01
+"MAVYRET","Nurse Practitioner",144,2019-08-01
+"MAVYRET","Nurse Practitioner",84,2019-09-01
+"MAVYRET","Nursing Home",1,2018-05-01
+"MAVYRET","Nursing Home",1,2019-02-01
+"CREON","Office Manager",1,2018-06-01
+"CREON","Office Manager",1,2018-07-01
+"CREON","Office Manager",3,2018-09-01
+"CREON","Office Manager",1,2018-10-01
+"CREON","Office Manager",1,2019-01-01
+"CREON","Office Manager",1,2019-07-01
+"CREON","Office Manager",2,2019-08-01
+"ELAGOLIX","Office Manager",3,2018-08-01
+"ELAGOLIX","Office Manager",1,2019-04-01
+"ELAGOLIX","Office Manager",2,2019-05-01
+"ELAGOLIX","Office Manager",1,2019-07-01
+"ELAGOLIX","Office Manager",6,2019-08-01
+"ELAGOLIX","Office Manager",1,2019-09-01
+"HUMIRA","Office Manager",2,2017-02-01
+"HUMIRA","Office Manager",2,2017-03-01
+"HUMIRA","Office Manager",7,2017-04-01
+"HUMIRA","Office Manager",1,2017-05-01
+"HUMIRA","Office Manager",2,2017-07-01
+"HUMIRA","Office Manager",7,2017-08-01
+"HUMIRA","Office Manager",4,2017-09-01
+"HUMIRA","Office Manager",7,2017-10-01
+"HUMIRA","Office Manager",2,2017-11-01
+"HUMIRA","Office Manager",2,2017-12-01
+"HUMIRA","Office Manager",5,2018-01-01
+"HUMIRA","Office Manager",2,2018-02-01
+"HUMIRA","Office Manager",1,2018-03-01
+"HUMIRA","Office Manager",2,2018-04-01
+"HUMIRA","Office Manager",4,2018-05-01
+"HUMIRA","Office Manager",4,2018-06-01
+"HUMIRA","Office Manager",4,2018-07-01
+"HUMIRA","Office Manager",10,2018-08-01
+"HUMIRA","Office Manager",2,2018-09-01
+"HUMIRA","Office Manager",1,2018-10-01
+"HUMIRA","Office Manager",1,2018-11-01
+"HUMIRA","Office Manager",1,2019-01-01
+"HUMIRA","Office Manager",1,2019-02-01
+"HUMIRA","Office Manager",4,2019-03-01
+"HUMIRA","Office Manager",9,2019-04-01
+"HUMIRA","Office Manager",7,2019-05-01
+"HUMIRA","Office Manager",4,2019-06-01
+"HUMIRA","Office Manager",6,2019-08-01
+"HUMIRA","Office Manager",9,2019-09-01
+"Lupron Depot","Office Manager",1,2018-07-01
+"Lupron Depot","Office Manager",2,2018-10-01
+"Lupron Depot","Office Manager",1,2019-01-01
+"Lupron Depot","Office Manager",4,2019-02-01
+"Lupron Depot","Office Manager",1,2019-06-01
+"Lupron Depot","Office Manager",1,2019-07-01
+"LUPRON DEPOT","Office Manager",2,2017-04-01
+"LUPRON DEPOT","Office Manager",1,2017-05-01
+"LUPRON DEPOT","Office Manager",2,2017-08-01
+"LUPRON DEPOT","Office Manager",4,2018-08-01
+"LUPRON DEPOT","Office Manager",2,2018-10-01
+"LUPRON DEPOT","Office Manager",2,2018-11-01
+"LUPRON DEPOT","Office Manager",1,2019-08-01
+"MAVYRET","Office Manager",6,2017-08-01
+"MAVYRET","Office Manager",1,2017-10-01
+"MAVYRET","Office Manager",4,2018-02-01
+"MAVYRET","Office Manager",1,2018-03-01
+"MAVYRET","Office Manager",1,2018-04-01
+"MAVYRET","Office Manager",1,2018-05-01
+"MAVYRET","Office Manager",1,2018-12-01
+"MAVYRET","Office Manager",4,2019-02-01
+"MAVYRET","Office Manager",1,2019-03-01
+"MAVYRET","Office Manager",1,2019-04-01
+"MAVYRET","Office Manager",3,2019-06-01
+"MAVYRET","Office Manager",1,2019-07-01
+"MAVYRET","Office Manager",1,2019-08-01
+"MAVYRET","Office Manager",2,2019-09-01
+"CREON","Other",1,2017-12-01
+"CREON","Other",1,2018-01-01
+"CREON","Other",1,2018-02-01
+"CREON","Other",2,2018-03-01
+"CREON","Other",2,2018-04-01
+"CREON","Other",3,2018-05-01
+"CREON","Other",1,2018-06-01
+"CREON","Other",3,2018-07-01
+"CREON","Other",6,2018-08-01
+"CREON","Other",2,2018-09-01
+"CREON","Other",3,2018-10-01
+"CREON","Other",4,2018-11-01
+"CREON","Other",2,2019-01-01
+"CREON","Other",4,2019-02-01
+"CREON","Other",1,2019-04-01
+"CREON","Other",2,2019-05-01
+"CREON","Other",1,2019-06-01
+"ELAGOLIX","Other",1,2019-03-01
+"ELAGOLIX","Other",1,2019-07-01
+"HUMIRA","Other",2,2017-02-01
+"HUMIRA","Other",1,2017-03-01
+"HUMIRA","Other",11,2017-04-01
+"HUMIRA","Other",2,2017-06-01
+"HUMIRA","Other",3,2017-07-01
+"HUMIRA","Other",1,2017-08-01
+"HUMIRA","Other",11,2017-09-01
+"HUMIRA","Other",15,2017-10-01
+"HUMIRA","Other",3,2017-11-01
+"HUMIRA","Other",3,2017-12-01
+"HUMIRA","Other",7,2018-01-01
+"HUMIRA","Other",6,2018-02-01
+"HUMIRA","Other",3,2018-03-01
+"HUMIRA","Other",6,2018-04-01
+"HUMIRA","Other",4,2018-05-01
+"HUMIRA","Other",2,2018-06-01
+"HUMIRA","Other",3,2018-07-01
+"HUMIRA","Other",6,2018-08-01
+"HUMIRA","Other",3,2018-09-01
+"HUMIRA","Other",2,2018-10-01
+"HUMIRA","Other",1,2018-11-01
+"HUMIRA","Other",1,2019-01-01
+"HUMIRA","Other",4,2019-02-01
+"HUMIRA","Other",10,2019-03-01
+"HUMIRA","Other",13,2019-04-01
+"HUMIRA","Other",10,2019-05-01
+"HUMIRA","Other",4,2019-06-01
+"HUMIRA","Other",5,2019-07-01
+"HUMIRA","Other",12,2019-08-01
+"HUMIRA","Other",11,2019-09-01
+"Lupron Depot","Other",1,2019-07-01
+"LUPRON DEPOT","Other",2,2017-03-01
+"LUPRON DEPOT","Other",12,2017-04-01
+"LUPRON DEPOT","Other",2,2018-05-01
+"LUPRON DEPOT","Other",3,2018-07-01
+"LUPRON DEPOT","Other",5,2018-08-01
+"LUPRON DEPOT","Other",1,2018-09-01
+"LUPRON DEPOT","Other",2,2018-10-01
+"LUPRON DEPOT","Other",1,2019-03-01
+"LUPRON DEPOT","Other",2,2019-05-01
+"LUPRON DEPOT","Other",3,2019-06-01
+"LUPRON DEPOT","Other",3,2019-07-01
+"LUPRON DEPOT","Other",4,2019-08-01
+"LUPRON DEPOT","Other",4,2019-09-01
+"MAVYRET","Other",12,2017-08-01
+"MAVYRET","Other",1,2017-09-01
+"MAVYRET","Other",3,2017-10-01
+"MAVYRET","Other",6,2018-02-01
+"MAVYRET","Other",1,2018-03-01
+"MAVYRET","Other",2,2018-04-01
+"MAVYRET","Other",2,2018-05-01
+"MAVYRET","Other",1,2018-06-01
+"MAVYRET","Other",2,2018-07-01
+"MAVYRET","Other",1,2018-09-01
+"MAVYRET","Other",1,2018-11-01
+"MAVYRET","Other",1,2018-12-01
+"MAVYRET","Other",3,2019-01-01
+"MAVYRET","Other",7,2019-02-01
+"MAVYRET","Other",5,2019-03-01
+"MAVYRET","Other",5,2019-04-01
+"MAVYRET","Other",5,2019-05-01
+"MAVYRET","Other",2,2019-06-01
+"MAVYRET","Other",3,2019-08-01
+"MAVYRET","Other",4,2019-09-01
+"LUPRON DEPOT","Outpatient Center",1,2018-07-01
+"MAVYRET","Outpatient Center",1,2018-09-01
+"MAVYRET","Outpatient Center",2,2019-03-01
+"CREON","Pharmacist",1,2018-10-01
+"CREON","Pharmacist",1,2019-08-01
+"CREON","Pharmacist",3,2019-09-01
+"HUMIRA","Pharmacist",12,2017-02-01
+"HUMIRA","Pharmacist",11,2017-03-01
+"HUMIRA","Pharmacist",3,2017-04-01
+"HUMIRA","Pharmacist",19,2017-05-01
+"HUMIRA","Pharmacist",9,2017-06-01
+"HUMIRA","Pharmacist",4,2017-07-01
+"HUMIRA","Pharmacist",7,2017-08-01
+"HUMIRA","Pharmacist",4,2017-09-01
+"HUMIRA","Pharmacist",11,2017-10-01
+"HUMIRA","Pharmacist",7,2017-11-01
+"HUMIRA","Pharmacist",5,2018-01-01
+"HUMIRA","Pharmacist",2,2018-02-01
+"HUMIRA","Pharmacist",5,2018-03-01
+"HUMIRA","Pharmacist",2,2018-04-01
+"HUMIRA","Pharmacist",3,2018-05-01
+"HUMIRA","Pharmacist",7,2018-06-01
+"HUMIRA","Pharmacist",6,2018-07-01
+"HUMIRA","Pharmacist",6,2018-08-01
+"HUMIRA","Pharmacist",9,2018-09-01
+"HUMIRA","Pharmacist",3,2018-10-01
+"HUMIRA","Pharmacist",6,2018-11-01
+"HUMIRA","Pharmacist",4,2018-12-01
+"HUMIRA","Pharmacist",4,2019-01-01
+"HUMIRA","Pharmacist",5,2019-02-01
+"HUMIRA","Pharmacist",2,2019-03-01
+"HUMIRA","Pharmacist",1,2019-04-01
+"HUMIRA","Pharmacist",10,2019-05-01
+"HUMIRA","Pharmacist",13,2019-06-01
+"HUMIRA","Pharmacist",4,2019-07-01
+"HUMIRA","Pharmacist",4,2019-08-01
+"HUMIRA","Pharmacist",11,2019-09-01
+"LUPRON DEPOT","Pharmacist",1,2019-07-01
+"MAVYRET","Pharmacist",7,2017-10-01
+"MAVYRET","Pharmacist",1,2018-02-01
+"MAVYRET","Pharmacist",15,2018-03-01
+"MAVYRET","Pharmacist",17,2018-04-01
+"MAVYRET","Pharmacist",12,2018-05-01
+"MAVYRET","Pharmacist",4,2018-06-01
+"MAVYRET","Pharmacist",3,2018-07-01
+"MAVYRET","Pharmacist",1,2018-09-01
+"MAVYRET","Pharmacist",1,2018-10-01
+"MAVYRET","Pharmacist",1,2019-01-01
+"MAVYRET","Pharmacist",8,2019-02-01
+"MAVYRET","Pharmacist",6,2019-03-01
+"MAVYRET","Pharmacist",7,2019-05-01
+"MAVYRET","Pharmacist",3,2019-06-01
+"MAVYRET","Pharmacist",3,2019-08-01
+"MAVYRET","Pharmacist",5,2019-09-01
+"HUMIRA","Pharmacy",2,2017-03-01
+"HUMIRA","Pharmacy",1,2017-06-01
+"HUMIRA","Pharmacy",1,2017-07-01
+"HUMIRA","Pharmacy",1,2017-08-01
+"HUMIRA","Pharmacy",3,2017-10-01
+"HUMIRA","Pharmacy",1,2018-07-01
+"HUMIRA","Pharmacy",1,2019-06-01
+"HUMIRA","Pharmacy",1,2019-07-01
+"HUMIRA","Pharmacy",10,2019-09-01
+"LUPRON DEPOT","Pharmacy",1,2018-08-01
+"LUPRON DEPOT","Pharmacy",1,2019-01-01
+"LUPRON DEPOT","Pharmacy",1,2019-02-01
+"LUPRON DEPOT","Pharmacy",2,2019-05-01
+"LUPRON DEPOT","Pharmacy",1,2019-07-01
+"LUPRON DEPOT","Pharmacy",1,2019-08-01
+"LUPRON DEPOT","Pharmacy",1,2019-09-01
+"MAVYRET","Pharmacy",3,2017-10-01
+"MAVYRET","Pharmacy",13,2018-03-01
+"MAVYRET","Pharmacy",9,2018-04-01
+"MAVYRET","Pharmacy",8,2018-05-01
+"MAVYRET","Pharmacy",7,2018-06-01
+"MAVYRET","Pharmacy",1,2018-07-01
+"MAVYRET","Pharmacy",3,2018-09-01
+"MAVYRET","Pharmacy",1,2018-10-01
+"MAVYRET","Pharmacy",4,2019-01-01
+"MAVYRET","Pharmacy",4,2019-02-01
+"MAVYRET","Pharmacy",13,2019-03-01
+"MAVYRET","Pharmacy",6,2019-05-01
+"MAVYRET","Pharmacy",1,2019-06-01
+"MAVYRET","Pharmacy",1,2019-08-01
+"MAVYRET","Pharmacy",3,2019-09-01
+"CREON","Physician",19,2016-10-01
+"CREON","Physician",41,2016-11-01
+"CREON","Physician",16,2016-12-01
+"CREON","Physician",29,2017-01-01
+"CREON","Physician",19,2017-02-01
+"CREON","Physician",12,2017-03-01
+"CREON","Physician",6,2017-04-01
+"CREON","Physician",52,2017-05-01
+"CREON","Physician",66,2017-06-01
+"CREON","Physician",37,2017-07-01
+"CREON","Physician",53,2017-08-01
+"CREON","Physician",248,2017-09-01
+"CREON","Physician",128,2017-10-01
+"CREON","Physician",68,2017-11-01
+"CREON","Physician",38,2017-12-01
+"CREON","Physician",112,2018-01-01
+"CREON","Physician",77,2018-02-01
+"CREON","Physician",318,2018-03-01
+"CREON","Physician",389,2018-04-01
+"CREON","Physician",232,2018-05-01
+"CREON","Physician",195,2018-06-01
+"CREON","Physician",210,2018-07-01
+"CREON","Physician",604,2018-08-01
+"CREON","Physician",315,2018-09-01
+"CREON","Physician",406,2018-10-01
+"CREON","Physician",544,2018-11-01
+"CREON","Physician",248,2018-12-01
+"CREON","Physician",312,2019-01-01
+"CREON","Physician",305,2019-02-01
+"CREON","Physician",246,2019-03-01
+"CREON","Physician",209,2019-04-01
+"CREON","Physician",356,2019-05-01
+"CREON","Physician",406,2019-06-01
+"CREON","Physician",415,2019-07-01
+"CREON","Physician",661,2019-08-01
+"CREON","Physician",549,2019-09-01
+"ELAGOLIX","Physician",6,2018-03-01
+"ELAGOLIX","Physician",4,2018-04-01
+"ELAGOLIX","Physician",1,2018-05-01
+"ELAGOLIX","Physician",8,2018-06-01
+"ELAGOLIX","Physician",4,2018-07-01
+"ELAGOLIX","Physician",4,2018-08-01
+"ELAGOLIX","Physician",2,2018-09-01
+"ELAGOLIX","Physician",41,2018-10-01
+"ELAGOLIX","Physician",23,2018-11-01
+"ELAGOLIX","Physician",80,2018-12-01
+"ELAGOLIX","Physician",150,2019-01-01
+"ELAGOLIX","Physician",511,2019-02-01
+"ELAGOLIX","Physician",126,2019-03-01
+"ELAGOLIX","Physician",78,2019-04-01
+"ELAGOLIX","Physician",60,2019-05-01
+"ELAGOLIX","Physician",85,2019-06-01
+"ELAGOLIX","Physician",264,2019-07-01
+"ELAGOLIX","Physician",54,2019-08-01
+"ELAGOLIX","Physician",11,2019-09-01
+"HUMIRA","Physician",36,2016-07-01
+"HUMIRA","Physician",195,2016-08-01
+"HUMIRA","Physician",239,2016-09-01
+"HUMIRA","Physician",214,2016-10-01
+"HUMIRA","Physician",251,2016-11-01
+"HUMIRA","Physician",94,2016-12-01
+"HUMIRA","Physician",293,2017-01-01
+"HUMIRA","Physician",523,2017-02-01
+"HUMIRA","Physician",1493,2017-03-01
+"HUMIRA","Physician",1098,2017-04-01
+"HUMIRA","Physician",773,2017-05-01
+"HUMIRA","Physician",508,2017-06-01
+"HUMIRA","Physician",479,2017-07-01
+"HUMIRA","Physician",1078,2017-08-01
+"HUMIRA","Physician",1031,2017-09-01
+"HUMIRA","Physician",1781,2017-10-01
+"HUMIRA","Physician",1191,2017-11-01
+"HUMIRA","Physician",756,2017-12-01
+"HUMIRA","Physician",1496,2018-01-01
+"HUMIRA","Physician",1207,2018-02-01
+"HUMIRA","Physician",1531,2018-03-01
+"HUMIRA","Physician",1385,2018-04-01
+"HUMIRA","Physician",1597,2018-05-01
+"HUMIRA","Physician",1389,2018-06-01
+"HUMIRA","Physician",791,2018-07-01
+"HUMIRA","Physician",2463,2018-08-01
+"HUMIRA","Physician",1805,2018-09-01
+"HUMIRA","Physician",911,2018-10-01
+"HUMIRA","Physician",970,2018-11-01
+"HUMIRA","Physician",501,2018-12-01
+"HUMIRA","Physician",655,2019-01-01
+"HUMIRA","Physician",1212,2019-02-01
+"HUMIRA","Physician",897,2019-03-01
+"HUMIRA","Physician",909,2019-04-01
+"HUMIRA","Physician",961,2019-05-01
+"HUMIRA","Physician",602,2019-06-01
+"HUMIRA","Physician",802,2019-07-01
+"HUMIRA","Physician",1019,2019-08-01
+"HUMIRA","Physician",1206,2019-09-01
+"Lupron Depot","Physician",4,2018-02-01
+"Lupron Depot","Physician",1,2018-03-01
+"Lupron Depot","Physician",3,2018-04-01
+"Lupron Depot","Physician",1,2018-06-01
+"Lupron Depot","Physician",7,2018-07-01
+"Lupron Depot","Physician",3,2018-09-01
+"Lupron Depot","Physician",19,2018-10-01
+"Lupron Depot","Physician",7,2018-11-01
+"Lupron Depot","Physician",2,2018-12-01
+"Lupron Depot","Physician",17,2019-01-01
+"Lupron Depot","Physician",3,2019-02-01
+"Lupron Depot","Physician",5,2019-03-01
+"Lupron Depot","Physician",5,2019-04-01
+"Lupron Depot","Physician",3,2019-05-01
+"Lupron Depot","Physician",10,2019-06-01
+"Lupron Depot","Physician",26,2019-07-01
+"Lupron Depot","Physician",18,2019-08-01
+"LUPRON DEPOT","Physician",2,2017-03-01
+"LUPRON DEPOT","Physician",32,2017-04-01
+"LUPRON DEPOT","Physician",9,2017-05-01
+"LUPRON DEPOT","Physician",4,2017-06-01
+"LUPRON DEPOT","Physician",1,2017-09-01
+"LUPRON DEPOT","Physician",70,2017-10-01
+"LUPRON DEPOT","Physician",12,2017-11-01
+"LUPRON DEPOT","Physician",3,2017-12-01
+"LUPRON DEPOT","Physician",2,2018-01-01
+"LUPRON DEPOT","Physician",4,2018-02-01
+"LUPRON DEPOT","Physician",9,2018-03-01
+"LUPRON DEPOT","Physician",18,2018-05-01
+"LUPRON DEPOT","Physician",5,2018-06-01
+"LUPRON DEPOT","Physician",45,2018-07-01
+"LUPRON DEPOT","Physician",87,2018-08-01
+"LUPRON DEPOT","Physician",12,2018-09-01
+"LUPRON DEPOT","Physician",78,2018-10-01
+"LUPRON DEPOT","Physician",42,2018-11-01
+"LUPRON DEPOT","Physician",28,2018-12-01
+"LUPRON DEPOT","Physician",17,2019-01-01
+"LUPRON DEPOT","Physician",11,2019-02-01
+"LUPRON DEPOT","Physician",1,2019-03-01
+"LUPRON DEPOT","Physician",1,2019-04-01
+"LUPRON DEPOT","Physician",6,2019-05-01
+"LUPRON DEPOT","Physician",3,2019-06-01
+"LUPRON DEPOT","Physician",7,2019-07-01
+"LUPRON DEPOT","Physician",10,2019-08-01
+"LUPRON DEPOT","Physician",10,2019-09-01
+"MAVYRET","Physician",3336,2017-08-01
+"MAVYRET","Physician",361,2017-09-01
+"MAVYRET","Physician",386,2017-10-01
+"MAVYRET","Physician",90,2017-11-01
+"MAVYRET","Physician",160,2017-12-01
+"MAVYRET","Physician",448,2018-01-01
+"MAVYRET","Physician",1220,2018-02-01
+"MAVYRET","Physician",1393,2018-03-01
+"MAVYRET","Physician",617,2018-04-01
+"MAVYRET","Physician",600,2018-05-01
+"MAVYRET","Physician",387,2018-06-01
+"MAVYRET","Physician",319,2018-07-01
+"MAVYRET","Physician",315,2018-08-01
+"MAVYRET","Physician",338,2018-09-01
+"MAVYRET","Physician",402,2018-10-01
+"MAVYRET","Physician",518,2018-11-01
+"MAVYRET","Physician",256,2018-12-01
+"MAVYRET","Physician",1248,2019-01-01
+"MAVYRET","Physician",903,2019-02-01
+"MAVYRET","Physician",1484,2019-03-01
+"MAVYRET","Physician",1315,2019-04-01
+"MAVYRET","Physician",880,2019-05-01
+"MAVYRET","Physician",1393,2019-06-01
+"MAVYRET","Physician",958,2019-07-01
+"MAVYRET","Physician",847,2019-08-01
+"MAVYRET","Physician",582,2019-09-01
+"CREON","Physician Assistant",1,2016-10-01
+"CREON","Physician Assistant",2,2017-06-01
+"CREON","Physician Assistant",9,2017-09-01
+"CREON","Physician Assistant",13,2017-10-01
+"CREON","Physician Assistant",4,2017-11-01
+"CREON","Physician Assistant",2,2017-12-01
+"CREON","Physician Assistant",10,2018-01-01
+"CREON","Physician Assistant",9,2018-02-01
+"CREON","Physician Assistant",11,2018-03-01
+"CREON","Physician Assistant",21,2018-04-01
+"CREON","Physician Assistant",8,2018-05-01
+"CREON","Physician Assistant",13,2018-06-01
+"CREON","Physician Assistant",15,2018-07-01
+"CREON","Physician Assistant",28,2018-08-01
+"CREON","Physician Assistant",18,2018-09-01
+"CREON","Physician Assistant",33,2018-10-01
+"CREON","Physician Assistant",25,2018-11-01
+"CREON","Physician Assistant",15,2018-12-01
+"CREON","Physician Assistant",26,2019-01-01
+"CREON","Physician Assistant",16,2019-02-01
+"CREON","Physician Assistant",10,2019-03-01
+"CREON","Physician Assistant",13,2019-04-01
+"CREON","Physician Assistant",23,2019-05-01
+"CREON","Physician Assistant",35,2019-06-01
+"CREON","Physician Assistant",25,2019-07-01
+"CREON","Physician Assistant",46,2019-08-01
+"CREON","Physician Assistant",33,2019-09-01
+"ELAGOLIX","Physician Assistant",1,2018-11-01
+"ELAGOLIX","Physician Assistant",4,2019-02-01
+"HUMIRA","Physician Assistant",2,2016-07-01
+"HUMIRA","Physician Assistant",20,2016-08-01
+"HUMIRA","Physician Assistant",17,2016-09-01
+"HUMIRA","Physician Assistant",20,2016-10-01
+"HUMIRA","Physician Assistant",15,2016-11-01
+"HUMIRA","Physician Assistant",7,2016-12-01
+"HUMIRA","Physician Assistant",15,2017-01-01
+"HUMIRA","Physician Assistant",32,2017-02-01
+"HUMIRA","Physician Assistant",93,2017-03-01
+"HUMIRA","Physician Assistant",132,2017-04-01
+"HUMIRA","Physician Assistant",67,2017-05-01
+"HUMIRA","Physician Assistant",56,2017-06-01
+"HUMIRA","Physician Assistant",58,2017-07-01
+"HUMIRA","Physician Assistant",90,2017-08-01
+"HUMIRA","Physician Assistant",127,2017-09-01
+"HUMIRA","Physician Assistant",144,2017-10-01
+"HUMIRA","Physician Assistant",120,2017-11-01
+"HUMIRA","Physician Assistant",71,2017-12-01
+"HUMIRA","Physician Assistant",148,2018-01-01
+"HUMIRA","Physician Assistant",131,2018-02-01
+"HUMIRA","Physician Assistant",111,2018-03-01
+"HUMIRA","Physician Assistant",118,2018-04-01
+"HUMIRA","Physician Assistant",95,2018-05-01
+"HUMIRA","Physician Assistant",128,2018-06-01
+"HUMIRA","Physician Assistant",78,2018-07-01
+"HUMIRA","Physician Assistant",218,2018-08-01
+"HUMIRA","Physician Assistant",142,2018-09-01
+"HUMIRA","Physician Assistant",102,2018-10-01
+"HUMIRA","Physician Assistant",189,2018-11-01
+"HUMIRA","Physician Assistant",145,2018-12-01
+"HUMIRA","Physician Assistant",100,2019-01-01
+"HUMIRA","Physician Assistant",297,2019-02-01
+"HUMIRA","Physician Assistant",149,2019-03-01
+"HUMIRA","Physician Assistant",99,2019-04-01
+"HUMIRA","Physician Assistant",113,2019-05-01
+"HUMIRA","Physician Assistant",92,2019-06-01
+"HUMIRA","Physician Assistant",117,2019-07-01
+"HUMIRA","Physician Assistant",167,2019-08-01
+"HUMIRA","Physician Assistant",128,2019-09-01
+"Lupron Depot","Physician Assistant",1,2019-01-01
+"Lupron Depot","Physician Assistant",1,2019-06-01
+"LUPRON DEPOT","Physician Assistant",1,2017-07-01
+"LUPRON DEPOT","Physician Assistant",2,2018-07-01
+"LUPRON DEPOT","Physician Assistant",2,2018-08-01
+"LUPRON DEPOT","Physician Assistant",2,2018-10-01
+"LUPRON DEPOT","Physician Assistant",1,2018-12-01
+"LUPRON DEPOT","Physician Assistant",1,2019-05-01
+"LUPRON DEPOT","Physician Assistant",1,2019-07-01
+"LUPRON DEPOT","Physician Assistant",1,2019-08-01
+"LUPRON DEPOT","Physician Assistant",1,2019-09-01
+"MAVYRET","Physician Assistant",216,2017-08-01
+"MAVYRET","Physician Assistant",28,2017-09-01
+"MAVYRET","Physician Assistant",23,2017-10-01
+"MAVYRET","Physician Assistant",10,2017-11-01
+"MAVYRET","Physician Assistant",10,2017-12-01
+"MAVYRET","Physician Assistant",30,2018-01-01
+"MAVYRET","Physician Assistant",107,2018-02-01
+"MAVYRET","Physician Assistant",102,2018-03-01
+"MAVYRET","Physician Assistant",47,2018-04-01
+"MAVYRET","Physician Assistant",57,2018-05-01
+"MAVYRET","Physician Assistant",22,2018-06-01
+"MAVYRET","Physician Assistant",15,2018-07-01
+"MAVYRET","Physician Assistant",23,2018-08-01
+"MAVYRET","Physician Assistant",19,2018-09-01
+"MAVYRET","Physician Assistant",39,2018-10-01
+"MAVYRET","Physician Assistant",44,2018-11-01
+"MAVYRET","Physician Assistant",12,2018-12-01
+"MAVYRET","Physician Assistant",105,2019-01-01
+"MAVYRET","Physician Assistant",75,2019-02-01
+"MAVYRET","Physician Assistant",98,2019-03-01
+"MAVYRET","Physician Assistant",100,2019-04-01
+"MAVYRET","Physician Assistant",82,2019-05-01
+"MAVYRET","Physician Assistant",115,2019-06-01
+"MAVYRET","Physician Assistant",98,2019-07-01
+"MAVYRET","Physician Assistant",67,2019-08-01
+"MAVYRET","Physician Assistant",71,2019-09-01
+"LUPRON DEPOT","Public Sector",2,2018-10-01
+"MAVYRET","Public Sector",2,2018-03-01
+"CREON","Registered Dietician",1,2017-07-01
+"CREON","Registered Dietician",1,2017-10-01
+"CREON","Registered Dietician",1,2017-11-01
+"CREON","Registered Dietician",2,2017-12-01
+"CREON","Registered Dietician",2,2018-01-01
+"CREON","Registered Dietician",1,2018-03-01
+"CREON","Registered Dietician",11,2018-04-01
+"CREON","Registered Dietician",4,2018-05-01
+"CREON","Registered Dietician",7,2018-06-01
+"CREON","Registered Dietician",4,2018-07-01
+"CREON","Registered Dietician",35,2018-08-01
+"CREON","Registered Dietician",15,2018-09-01
+"CREON","Registered Dietician",9,2018-10-01
+"CREON","Registered Dietician",1,2018-11-01
+"CREON","Registered Dietician",1,2019-01-01
+"CREON","Registered Dietician",2,2019-02-01
+"CREON","Registered Dietician",1,2019-03-01
+"CREON","Registered Dietician",4,2019-04-01
+"CREON","Registered Dietician",1,2019-05-01
+"CREON","Registered Dietician",5,2019-07-01
+"CREON","Registered Dietician",1,2019-08-01
+"CREON","Registered Dietician",1,2019-09-01
+"HUMIRA","Registered Dietician",1,2017-05-01
+"HUMIRA","Registered Dietician",1,2018-05-01
+"MAVYRET","Registered Dietician",2,2018-11-01
+"MAVYRET","Research",2,2018-05-01
+"MAVYRET","Research",1,2019-02-01
+"MAVYRET","Research",1,2019-03-01
+"MAVYRET","Research",1,2019-06-01
+"HUMIRA","Residential",1,2018-01-01
+"MAVYRET","Residential",1,2018-06-01
+"CREON","Social Worker",3,2018-04-01
+"CREON","Social Worker",4,2018-08-01
+"CREON","Social Worker",4,2018-09-01
+"MAVYRET","Social Worker",2,2019-02-01
+"MAVYRET","Social Worker",1,2019-03-01
+"MAVYRET","Social Worker",1,2019-05-01
+"MAVYRET","Social Worker",1,2019-06-01
+"CREON","Technician",1,2017-12-01
+"CREON","Technician",1,2018-04-01
+"CREON","Technician",1,2019-01-01
+"HUMIRA","Technician",3,2017-03-01
+"HUMIRA","Technician",1,2017-04-01
+"HUMIRA","Technician",1,2017-07-01
+"HUMIRA","Technician",1,2017-10-01
+"HUMIRA","Technician",1,2018-02-01
+"HUMIRA","Technician",1,2018-03-01
+"HUMIRA","Technician",1,2018-04-01
+"HUMIRA","Technician",1,2018-05-01
+"HUMIRA","Technician",2,2018-08-01
+"HUMIRA","Technician",1,2018-09-01
+"HUMIRA","Technician",1,2018-10-01
+"HUMIRA","Technician",1,2019-02-01
+"HUMIRA","Technician",2,2019-04-01
+"HUMIRA","Technician",4,2019-05-01
+"HUMIRA","Technician",1,2019-06-01
+"HUMIRA","Technician",2,2019-07-01
+"HUMIRA","Technician",1,2019-08-01
+"HUMIRA","Technician",2,2019-09-01
+"LUPRON DEPOT","Technician",1,2017-04-01
+"LUPRON DEPOT","Technician",1,2019-05-01
+"MAVYRET","Technician",3,2017-08-01
+"MAVYRET","Technician",1,2018-03-01
+"MAVYRET","Technician",1,2018-04-01
+"MAVYRET","Technician",1,2018-06-01
+"MAVYRET","Technician",2,2019-01-01
+"MAVYRET","Technician",1,2019-02-01
+"MAVYRET","Technician",2,2019-04-01
+"HUMIRA","Unspecified Account",1,2017-04-01
+"HUMIRA","Unspecified Account",2,2017-05-01
+"HUMIRA","Unspecified Account",1,2017-06-01
+"HUMIRA","Unspecified Account",1,2019-04-01
+"HUMIRA","Unspecified Account",1,2019-05-01
+"HUMIRA","Unspecified Account",1,2019-07-01
+"HUMIRA","Unspecified Account",1,2019-08-01
+"HUMIRA","Unspecified Account",3,2019-09-01
+"LUPRON DEPOT","Unspecified Account",1,2018-07-01
+"MAVYRET","Unspecified Account",6,2017-10-01
+"MAVYRET","Unspecified Account",1,2018-03-01
+"MAVYRET","Unspecified Account",1,2018-04-01
+"MAVYRET","Unspecified Account",2,2018-05-01
+"MAVYRET","Unspecified Account",1,2018-10-01
+"MAVYRET","Unspecified Account",1,2019-01-01
+"MAVYRET","Unspecified Account",1,2019-02-01
+"MAVYRET","Unspecified Account",4,2019-03-01
+"MAVYRET","Unspecified Account",1,2019-05-01
+"MAVYRET","Unspecified Account",2,2019-06-01
+"MAVYRET","Veterans Affairs",1,2018-05-01
+"MAVYRET","Veterans Affairs",1,2019-03-01

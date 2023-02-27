@@ -1,0 +1,1231 @@
+"DISPLAY_BRAND_NAME","CUSTOMER_TYPE_DESCRIPTION","Count","Date"
+"CREON","Nurse Practitioner",2,2017-01-01
+"CREON","Physician",12,2017-01-01
+"HUMIRA","Nurse Practitioner",14,2017-01-01
+"HUMIRA","Physician",26,2017-01-01
+"HUMIRA","Physician Assistant",11,2017-01-01
+"CREON","Medical Assistant",2,2018-01-01
+"CREON","Nurse",2,2018-01-01
+"CREON","Nurse Practitioner",8,2018-01-01
+"CREON","Other",1,2018-01-01
+"CREON","Physician",23,2018-01-01
+"CREON","Physician Assistant",8,2018-01-01
+"CREON","Registered Dietician",2,2018-01-01
+"HUMIRA","?",1,2018-01-01
+"HUMIRA","Admin Asst",5,2018-01-01
+"HUMIRA","Corporate Parent",2,2018-01-01
+"HUMIRA","Group Practice",4,2018-01-01
+"HUMIRA","Hospital",2,2018-01-01
+"HUMIRA","Medical Assistant",12,2018-01-01
+"HUMIRA","Nurse",9,2018-01-01
+"HUMIRA","Nurse Practitioner",26,2018-01-01
+"HUMIRA","Office Manager",4,2018-01-01
+"HUMIRA","Other",4,2018-01-01
+"HUMIRA","Pharmacist",4,2018-01-01
+"HUMIRA","Physician",29,2018-01-01
+"HUMIRA","Physician Assistant",25,2018-01-01
+"HUMIRA","Residential",1,2018-01-01
+"LUPRON DEPOT","Physician",1,2018-01-01
+"MAVYRET","Medical Assistant",1,2018-01-01
+"MAVYRET","Nurse",2,2018-01-01
+"MAVYRET","Nurse Practitioner",19,2018-01-01
+"MAVYRET","Physician",23,2018-01-01
+"MAVYRET","Physician Assistant",14,2018-01-01
+"CREON","Corporate Parent",1,2019-01-01
+"CREON","Group Practice",2,2019-01-01
+"CREON","Nurse",2,2019-01-01
+"CREON","Nurse Practitioner",15,2019-01-01
+"CREON","Office Manager",1,2019-01-01
+"CREON","Other",2,2019-01-01
+"CREON","Physician",22,2019-01-01
+"CREON","Physician Assistant",11,2019-01-01
+"CREON","Registered Dietician",1,2019-01-01
+"CREON","Technician",1,2019-01-01
+"ELAGOLIX","Physician",9,2019-01-01
+"HUMIRA","Hospital",3,2019-01-01
+"HUMIRA","Medical Assistant",3,2019-01-01
+"HUMIRA","Nurse",3,2019-01-01
+"HUMIRA","Nurse Practitioner",21,2019-01-01
+"HUMIRA","Office Manager",1,2019-01-01
+"HUMIRA","Other",1,2019-01-01
+"HUMIRA","Pharmacist",3,2019-01-01
+"HUMIRA","Physician",23,2019-01-01
+"HUMIRA","Physician Assistant",19,2019-01-01
+"Lupron Depot","Office Manager",1,2019-01-01
+"Lupron Depot","Physician",8,2019-01-01
+"Lupron Depot","Physician Assistant",1,2019-01-01
+"LUPRON DEPOT","Clinic",1,2019-01-01
+"LUPRON DEPOT","Corporate Parent",1,2019-01-01
+"LUPRON DEPOT","Group Practice",1,2019-01-01
+"LUPRON DEPOT","Hospital",9,2019-01-01
+"LUPRON DEPOT","Medical Assistant",2,2019-01-01
+"LUPRON DEPOT","Nurse",4,2019-01-01
+"LUPRON DEPOT","Nurse Practitioner",1,2019-01-01
+"LUPRON DEPOT","Pharmacy",1,2019-01-01
+"LUPRON DEPOT","Physician",6,2019-01-01
+"MAVYRET","Clinic",1,2019-01-01
+"MAVYRET","Group Practice",1,2019-01-01
+"MAVYRET","Medical Assistant",2,2019-01-01
+"MAVYRET","Nurse",6,2019-01-01
+"MAVYRET","Nurse Practitioner",24,2019-01-01
+"MAVYRET","Other",3,2019-01-01
+"MAVYRET","Pharmacist",1,2019-01-01
+"MAVYRET","Pharmacy",1,2019-01-01
+"MAVYRET","Physician",26,2019-01-01
+"MAVYRET","Physician Assistant",19,2019-01-01
+"MAVYRET","Technician",2,2019-01-01
+"MAVYRET","Unspecified Account",1,2019-01-01
+"CREON","Nurse Practitioner",2,2017-02-01
+"CREON","Physician",10,2017-02-01
+"HUMIRA","Corporate Parent",2,2017-02-01
+"HUMIRA","Group Practice",1,2017-02-01
+"HUMIRA","Hospital",7,2017-02-01
+"HUMIRA","Nurse Practitioner",19,2017-02-01
+"HUMIRA","Office Manager",2,2017-02-01
+"HUMIRA","Other",1,2017-02-01
+"HUMIRA","Pharmacist",7,2017-02-01
+"HUMIRA","Physician",24,2017-02-01
+"HUMIRA","Physician Assistant",15,2017-02-01
+"CREON","Medical Assistant",2,2018-02-01
+"CREON","Nurse",1,2018-02-01
+"CREON","Nurse Practitioner",5,2018-02-01
+"CREON","Other",1,2018-02-01
+"CREON","Physician",17,2018-02-01
+"CREON","Physician Assistant",8,2018-02-01
+"HUMIRA","Admin Asst",1,2018-02-01
+"HUMIRA","Corporate Parent",1,2018-02-01
+"HUMIRA","Group Practice",1,2018-02-01
+"HUMIRA","Hospital",2,2018-02-01
+"HUMIRA","Medical Assistant",14,2018-02-01
+"HUMIRA","Nurse",14,2018-02-01
+"HUMIRA","Nurse Practitioner",21,2018-02-01
+"HUMIRA","Office Manager",2,2018-02-01
+"HUMIRA","Other",6,2018-02-01
+"HUMIRA","Pharmacist",2,2018-02-01
+"HUMIRA","Physician",22,2018-02-01
+"HUMIRA","Physician Assistant",19,2018-02-01
+"HUMIRA","Technician",1,2018-02-01
+"Lupron Depot","Physician",3,2018-02-01
+"LUPRON DEPOT","Hospital",5,2018-02-01
+"LUPRON DEPOT","Nurse",2,2018-02-01
+"LUPRON DEPOT","Nurse Practitioner",1,2018-02-01
+"LUPRON DEPOT","Physician",2,2018-02-01
+"MAVYRET","Medical Assistant",10,2018-02-01
+"MAVYRET","Nurse",11,2018-02-01
+"MAVYRET","Nurse Practitioner",19,2018-02-01
+"MAVYRET","Office Manager",2,2018-02-01
+"MAVYRET","Other",3,2018-02-01
+"MAVYRET","Pharmacist",1,2018-02-01
+"MAVYRET","Physician",21,2018-02-01
+"MAVYRET","Physician Assistant",16,2018-02-01
+"CREON","Group Practice",3,2019-02-01
+"CREON","Nurse Practitioner",14,2019-02-01
+"CREON","Other",4,2019-02-01
+"CREON","Physician",18,2019-02-01
+"CREON","Physician Assistant",9,2019-02-01
+"CREON","Registered Dietician",2,2019-02-01
+"ELAGOLIX","Nurse Practitioner",4,2019-02-01
+"ELAGOLIX","Physician",18,2019-02-01
+"ELAGOLIX","Physician Assistant",1,2019-02-01
+"HUMIRA","Admin Asst",3,2019-02-01
+"HUMIRA","Corporate Parent",1,2019-02-01
+"HUMIRA","Executive",1,2019-02-01
+"HUMIRA","Group Practice",3,2019-02-01
+"HUMIRA","Hospital",5,2019-02-01
+"HUMIRA","Medical Assistant",13,2019-02-01
+"HUMIRA","Nurse",4,2019-02-01
+"HUMIRA","Nurse Practitioner",21,2019-02-01
+"HUMIRA","Office Manager",1,2019-02-01
+"HUMIRA","Other",3,2019-02-01
+"HUMIRA","Pharmacist",5,2019-02-01
+"HUMIRA","Physician",25,2019-02-01
+"HUMIRA","Physician Assistant",23,2019-02-01
+"HUMIRA","Technician",1,2019-02-01
+"Lupron Depot","Office Manager",1,2019-02-01
+"Lupron Depot","Physician",3,2019-02-01
+"LUPRON DEPOT","Admin Asst",1,2019-02-01
+"LUPRON DEPOT","Clinic",1,2019-02-01
+"LUPRON DEPOT","Group Practice",2,2019-02-01
+"LUPRON DEPOT","Hospital",8,2019-02-01
+"LUPRON DEPOT","Medical Assistant",1,2019-02-01
+"LUPRON DEPOT","Nurse",5,2019-02-01
+"LUPRON DEPOT","Nurse Practitioner",1,2019-02-01
+"LUPRON DEPOT","Pharmacy",1,2019-02-01
+"LUPRON DEPOT","Physician",7,2019-02-01
+"MAVYRET","Admin Asst",1,2019-02-01
+"MAVYRET","Clinic",7,2019-02-01
+"MAVYRET","Corporate Parent",3,2019-02-01
+"MAVYRET","Group Practice",8,2019-02-01
+"MAVYRET","Hospital",5,2019-02-01
+"MAVYRET","Medical Assistant",4,2019-02-01
+"MAVYRET","Nurse",8,2019-02-01
+"MAVYRET","Nurse Practitioner",18,2019-02-01
+"MAVYRET","Nursing Home",1,2019-02-01
+"MAVYRET","Office Manager",3,2019-02-01
+"MAVYRET","Other",5,2019-02-01
+"MAVYRET","Pharmacist",3,2019-02-01
+"MAVYRET","Pharmacy",2,2019-02-01
+"MAVYRET","Physician",20,2019-02-01
+"MAVYRET","Physician Assistant",17,2019-02-01
+"MAVYRET","Research",1,2019-02-01
+"MAVYRET","Social Worker",2,2019-02-01
+"MAVYRET","Technician",1,2019-02-01
+"MAVYRET","Unspecified Account",1,2019-02-01
+"CREON","Nurse Practitioner",1,2017-03-01
+"CREON","Physician",6,2017-03-01
+"HUMIRA","Admin Asst",5,2017-03-01
+"HUMIRA","Corporate Parent",2,2017-03-01
+"HUMIRA","Executive",2,2017-03-01
+"HUMIRA","Group Practice",6,2017-03-01
+"HUMIRA","Hospital",6,2017-03-01
+"HUMIRA","Medical Assistant",7,2017-03-01
+"HUMIRA","Nurse",6,2017-03-01
+"HUMIRA","Nurse Practitioner",24,2017-03-01
+"HUMIRA","Office Manager",2,2017-03-01
+"HUMIRA","Other",1,2017-03-01
+"HUMIRA","Pharmacist",6,2017-03-01
+"HUMIRA","Pharmacy",1,2017-03-01
+"HUMIRA","Physician",26,2017-03-01
+"HUMIRA","Physician Assistant",20,2017-03-01
+"HUMIRA","Technician",2,2017-03-01
+"LUPRON DEPOT","Medical Assistant",1,2017-03-01
+"LUPRON DEPOT","Nurse",1,2017-03-01
+"LUPRON DEPOT","Other",2,2017-03-01
+"LUPRON DEPOT","Physician",2,2017-03-01
+"CREON","Medical Assistant",2,2018-03-01
+"CREON","Nurse",1,2018-03-01
+"CREON","Nurse Practitioner",13,2018-03-01
+"CREON","Other",2,2018-03-01
+"CREON","Physician",21,2018-03-01
+"CREON","Physician Assistant",8,2018-03-01
+"CREON","Registered Dietician",1,2018-03-01
+"ELAGOLIX","Physician",4,2018-03-01
+"HUMIRA","Admin Asst",3,2018-03-01
+"HUMIRA","Corporate Parent",2,2018-03-01
+"HUMIRA","Group Practice",4,2018-03-01
+"HUMIRA","Hospital",7,2018-03-01
+"HUMIRA","Medical Assistant",11,2018-03-01
+"HUMIRA","Nurse",12,2018-03-01
+"HUMIRA","Nurse Practitioner",23,2018-03-01
+"HUMIRA","Office Manager",1,2018-03-01
+"HUMIRA","Other",3,2018-03-01
+"HUMIRA","Pharmacist",5,2018-03-01
+"HUMIRA","Physician",27,2018-03-01
+"HUMIRA","Physician Assistant",20,2018-03-01
+"HUMIRA","Technician",1,2018-03-01
+"Lupron Depot","Physician",1,2018-03-01
+"LUPRON DEPOT","Clinic",1,2018-03-01
+"LUPRON DEPOT","Group Practice",3,2018-03-01
+"LUPRON DEPOT","Hospital",8,2018-03-01
+"LUPRON DEPOT","Nurse",4,2018-03-01
+"LUPRON DEPOT","Nurse Practitioner",2,2018-03-01
+"LUPRON DEPOT","Physician",5,2018-03-01
+"MAVYRET","Clinic",2,2018-03-01
+"MAVYRET","Corporate Parent",3,2018-03-01
+"MAVYRET","Executive",2,2018-03-01
+"MAVYRET","Group Practice",5,2018-03-01
+"MAVYRET","Hospital",8,2018-03-01
+"MAVYRET","Medical Assistant",9,2018-03-01
+"MAVYRET","Nurse",14,2018-03-01
+"MAVYRET","Nurse Practitioner",24,2018-03-01
+"MAVYRET","Office Manager",1,2018-03-01
+"MAVYRET","Other",1,2018-03-01
+"MAVYRET","Pharmacist",6,2018-03-01
+"MAVYRET","Pharmacy",6,2018-03-01
+"MAVYRET","Physician",26,2018-03-01
+"MAVYRET","Physician Assistant",21,2018-03-01
+"MAVYRET","Public Sector",1,2018-03-01
+"MAVYRET","Technician",1,2018-03-01
+"MAVYRET","Unspecified Account",1,2018-03-01
+"CREON","Corporate Parent",1,2019-03-01
+"CREON","Hospital",1,2019-03-01
+"CREON","Nurse",1,2019-03-01
+"CREON","Nurse Practitioner",15,2019-03-01
+"CREON","Physician",22,2019-03-01
+"CREON","Physician Assistant",4,2019-03-01
+"CREON","Registered Dietician",1,2019-03-01
+"ELAGOLIX","Nurse Practitioner",1,2019-03-01
+"ELAGOLIX","Other",1,2019-03-01
+"ELAGOLIX","Physician",10,2019-03-01
+"HUMIRA","Admin Asst",1,2019-03-01
+"HUMIRA","Group Practice",1,2019-03-01
+"HUMIRA","Hospital",3,2019-03-01
+"HUMIRA","Medical Assistant",11,2019-03-01
+"HUMIRA","Nurse",11,2019-03-01
+"HUMIRA","Nurse Practitioner",22,2019-03-01
+"HUMIRA","Office Manager",3,2019-03-01
+"HUMIRA","Other",9,2019-03-01
+"HUMIRA","Pharmacist",2,2019-03-01
+"HUMIRA","Physician",28,2019-03-01
+"HUMIRA","Physician Assistant",23,2019-03-01
+"Lupron Depot","Physician",3,2019-03-01
+"LUPRON DEPOT","Group Practice",1,2019-03-01
+"LUPRON DEPOT","Hospital",2,2019-03-01
+"LUPRON DEPOT","Nurse",1,2019-03-01
+"LUPRON DEPOT","Nurse Practitioner",1,2019-03-01
+"LUPRON DEPOT","Other",1,2019-03-01
+"LUPRON DEPOT","Physician",1,2019-03-01
+"MAVYRET","Clinic",6,2019-03-01
+"MAVYRET","Corporate Parent",4,2019-03-01
+"MAVYRET","Correctional Facility",1,2019-03-01
+"MAVYRET","Executive",1,2019-03-01
+"MAVYRET","Group Practice",8,2019-03-01
+"MAVYRET","Hospital",4,2019-03-01
+"MAVYRET","Independent Physician Practice",1,2019-03-01
+"MAVYRET","Medical Assistant",2,2019-03-01
+"MAVYRET","Nurse",4,2019-03-01
+"MAVYRET","Nurse Practitioner",21,2019-03-01
+"MAVYRET","Office Manager",1,2019-03-01
+"MAVYRET","Other",5,2019-03-01
+"MAVYRET","Outpatient Center",1,2019-03-01
+"MAVYRET","Pharmacist",2,2019-03-01
+"MAVYRET","Pharmacy",4,2019-03-01
+"MAVYRET","Physician",29,2019-03-01
+"MAVYRET","Physician Assistant",19,2019-03-01
+"MAVYRET","Research",1,2019-03-01
+"MAVYRET","Social Worker",1,2019-03-01
+"MAVYRET","Unspecified Account",2,2019-03-01
+"MAVYRET","Veterans Affairs",1,2019-03-01
+"CREON","Nurse Practitioner",1,2017-04-01
+"CREON","Physician",4,2017-04-01
+"HUMIRA","Admin Asst",2,2017-04-01
+"HUMIRA","Corporate Parent",1,2017-04-01
+"HUMIRA","Executive",1,2017-04-01
+"HUMIRA","Group Practice",2,2017-04-01
+"HUMIRA","Hospital",5,2017-04-01
+"HUMIRA","Medical Assistant",8,2017-04-01
+"HUMIRA","Nurse",6,2017-04-01
+"HUMIRA","Nurse Practitioner",21,2017-04-01
+"HUMIRA","Office Manager",6,2017-04-01
+"HUMIRA","Other",8,2017-04-01
+"HUMIRA","Pharmacist",2,2017-04-01
+"HUMIRA","Physician",28,2017-04-01
+"HUMIRA","Physician Assistant",20,2017-04-01
+"HUMIRA","Technician",1,2017-04-01
+"HUMIRA","Unspecified Account",1,2017-04-01
+"LUPRON DEPOT","Admin Asst",1,2017-04-01
+"LUPRON DEPOT","Nurse",4,2017-04-01
+"LUPRON DEPOT","Office Manager",2,2017-04-01
+"LUPRON DEPOT","Other",5,2017-04-01
+"LUPRON DEPOT","Physician",10,2017-04-01
+"LUPRON DEPOT","Technician",1,2017-04-01
+"CREON","Medical Assistant",2,2018-04-01
+"CREON","Nurse",6,2018-04-01
+"CREON","Nurse Practitioner",14,2018-04-01
+"CREON","Other",1,2018-04-01
+"CREON","Physician",21,2018-04-01
+"CREON","Physician Assistant",12,2018-04-01
+"CREON","Registered Dietician",7,2018-04-01
+"CREON","Social Worker",1,2018-04-01
+"CREON","Technician",1,2018-04-01
+"ELAGOLIX","Physician",3,2018-04-01
+"HUMIRA","Admin Asst",5,2018-04-01
+"HUMIRA","Corporate Parent",1,2018-04-01
+"HUMIRA","Group Practice",8,2018-04-01
+"HUMIRA","Hospital",1,2018-04-01
+"HUMIRA","Medical Assistant",14,2018-04-01
+"HUMIRA","Nurse",16,2018-04-01
+"HUMIRA","Nurse Practitioner",24,2018-04-01
+"HUMIRA","Office Manager",2,2018-04-01
+"HUMIRA","Other",6,2018-04-01
+"HUMIRA","Pharmacist",2,2018-04-01
+"HUMIRA","Physician",25,2018-04-01
+"HUMIRA","Physician Assistant",24,2018-04-01
+"HUMIRA","Technician",1,2018-04-01
+"Lupron Depot","Physician",2,2018-04-01
+"LUPRON DEPOT","Clinic",1,2018-04-01
+"LUPRON DEPOT","Hospital",5,2018-04-01
+"LUPRON DEPOT","Nurse",3,2018-04-01
+"LUPRON DEPOT","Nurse Practitioner",3,2018-04-01
+"MAVYRET","Academic",1,2018-04-01
+"MAVYRET","Admin Asst",1,2018-04-01
+"MAVYRET","Clinic",2,2018-04-01
+"MAVYRET","Corporate Parent",3,2018-04-01
+"MAVYRET","Group Practice",6,2018-04-01
+"MAVYRET","Hospital",3,2018-04-01
+"MAVYRET","Managed Care Organization",1,2018-04-01
+"MAVYRET","Medical Assistant",9,2018-04-01
+"MAVYRET","Nurse",7,2018-04-01
+"MAVYRET","Nurse Practitioner",22,2018-04-01
+"MAVYRET","Office Manager",1,2018-04-01
+"MAVYRET","Other",2,2018-04-01
+"MAVYRET","Pharmacist",8,2018-04-01
+"MAVYRET","Pharmacy",3,2018-04-01
+"MAVYRET","Physician",26,2018-04-01
+"MAVYRET","Physician Assistant",19,2018-04-01
+"MAVYRET","Technician",1,2018-04-01
+"MAVYRET","Unspecified Account",1,2018-04-01
+"CREON","Dentist",1,2019-04-01
+"CREON","Group Practice",1,2019-04-01
+"CREON","Hospital",1,2019-04-01
+"CREON","Nurse",3,2019-04-01
+"CREON","Nurse Practitioner",10,2019-04-01
+"CREON","Other",1,2019-04-01
+"CREON","Physician",21,2019-04-01
+"CREON","Physician Assistant",6,2019-04-01
+"CREON","Registered Dietician",3,2019-04-01
+"ELAGOLIX","Nurse Practitioner",3,2019-04-01
+"ELAGOLIX","Office Manager",1,2019-04-01
+"ELAGOLIX","Physician",14,2019-04-01
+"HUMIRA","Admin Asst",4,2019-04-01
+"HUMIRA","Corporate Parent",2,2019-04-01
+"HUMIRA","Group Practice",2,2019-04-01
+"HUMIRA","Hospital",1,2019-04-01
+"HUMIRA","Medical Assistant",11,2019-04-01
+"HUMIRA","Nurse",8,2019-04-01
+"HUMIRA","Nurse Practitioner",23,2019-04-01
+"HUMIRA","Office Manager",6,2019-04-01
+"HUMIRA","Other",8,2019-04-01
+"HUMIRA","Pharmacist",1,2019-04-01
+"HUMIRA","Physician",26,2019-04-01
+"HUMIRA","Physician Assistant",21,2019-04-01
+"HUMIRA","Technician",2,2019-04-01
+"HUMIRA","Unspecified Account",1,2019-04-01
+"Lupron Depot","Physician",2,2019-04-01
+"LUPRON DEPOT","Hospital",2,2019-04-01
+"LUPRON DEPOT","Nurse",1,2019-04-01
+"LUPRON DEPOT","Physician",1,2019-04-01
+"MAVYRET","Admin Asst",1,2019-04-01
+"MAVYRET","Clinic",3,2019-04-01
+"MAVYRET","Group Practice",3,2019-04-01
+"MAVYRET","Independent Physician Practice",1,2019-04-01
+"MAVYRET","Medical Assistant",1,2019-04-01
+"MAVYRET","Nurse",4,2019-04-01
+"MAVYRET","Nurse Practitioner",24,2019-04-01
+"MAVYRET","Office Manager",1,2019-04-01
+"MAVYRET","Other",3,2019-04-01
+"MAVYRET","Physician",24,2019-04-01
+"MAVYRET","Physician Assistant",21,2019-04-01
+"MAVYRET","Technician",2,2019-04-01
+"CREON","Physician",17,2017-05-01
+"HUMIRA","Admin Asst",2,2017-05-01
+"HUMIRA","Group Practice",4,2017-05-01
+"HUMIRA","Hospital",5,2017-05-01
+"HUMIRA","Medical Assistant",6,2017-05-01
+"HUMIRA","Nurse",8,2017-05-01
+"HUMIRA","Nurse Practitioner",23,2017-05-01
+"HUMIRA","Office Manager",1,2017-05-01
+"HUMIRA","Pharmacist",6,2017-05-01
+"HUMIRA","Physician",27,2017-05-01
+"HUMIRA","Physician Assistant",19,2017-05-01
+"HUMIRA","Registered Dietician",1,2017-05-01
+"HUMIRA","Unspecified Account",1,2017-05-01
+"LUPRON DEPOT","Office Manager",1,2017-05-01
+"LUPRON DEPOT","Physician",7,2017-05-01
+"CREON","Nurse",2,2018-05-01
+"CREON","Nurse Practitioner",13,2018-05-01
+"CREON","Other",2,2018-05-01
+"CREON","Physician",23,2018-05-01
+"CREON","Physician Assistant",7,2018-05-01
+"CREON","Registered Dietician",3,2018-05-01
+"ELAGOLIX","Nurse Practitioner",1,2018-05-01
+"ELAGOLIX","Physician",1,2018-05-01
+"HUMIRA","Admin Asst",2,2018-05-01
+"HUMIRA","Clinic",1,2018-05-01
+"HUMIRA","Corporate Parent",1,2018-05-01
+"HUMIRA","Group Practice",4,2018-05-01
+"HUMIRA","Hospital",5,2018-05-01
+"HUMIRA","Medical Assistant",16,2018-05-01
+"HUMIRA","Nurse",11,2018-05-01
+"HUMIRA","Nurse Practitioner",22,2018-05-01
+"HUMIRA","Office Manager",4,2018-05-01
+"HUMIRA","Other",4,2018-05-01
+"HUMIRA","Pharmacist",3,2018-05-01
+"HUMIRA","Physician",26,2018-05-01
+"HUMIRA","Physician Assistant",19,2018-05-01
+"HUMIRA","Registered Dietician",1,2018-05-01
+"HUMIRA","Technician",1,2018-05-01
+"LUPRON DEPOT","Corporate Parent",1,2018-05-01
+"LUPRON DEPOT","Group Practice",2,2018-05-01
+"LUPRON DEPOT","Hospital",11,2018-05-01
+"LUPRON DEPOT","Medical Assistant",1,2018-05-01
+"LUPRON DEPOT","Nurse",6,2018-05-01
+"LUPRON DEPOT","Nurse Practitioner",1,2018-05-01
+"LUPRON DEPOT","Other",2,2018-05-01
+"LUPRON DEPOT","Physician",9,2018-05-01
+"MAVYRET","Corporate Parent",3,2018-05-01
+"MAVYRET","Correctional Facility",1,2018-05-01
+"MAVYRET","Group Practice",3,2018-05-01
+"MAVYRET","Hospital",3,2018-05-01
+"MAVYRET","Medical Assistant",4,2018-05-01
+"MAVYRET","Nurse",5,2018-05-01
+"MAVYRET","Nurse Practitioner",22,2018-05-01
+"MAVYRET","Nursing Home",1,2018-05-01
+"MAVYRET","Office Manager",1,2018-05-01
+"MAVYRET","Other",2,2018-05-01
+"MAVYRET","Pharmacist",8,2018-05-01
+"MAVYRET","Pharmacy",5,2018-05-01
+"MAVYRET","Physician",26,2018-05-01
+"MAVYRET","Physician Assistant",19,2018-05-01
+"MAVYRET","Research",1,2018-05-01
+"MAVYRET","Unspecified Account",1,2018-05-01
+"MAVYRET","Veterans Affairs",1,2018-05-01
+"CREON","Dentist",1,2019-05-01
+"CREON","Nurse",1,2019-05-01
+"CREON","Nurse Practitioner",17,2019-05-01
+"CREON","Other",2,2019-05-01
+"CREON","Physician",22,2019-05-01
+"CREON","Physician Assistant",10,2019-05-01
+"CREON","Registered Dietician",1,2019-05-01
+"ELAGOLIX","Medical Assistant",1,2019-05-01
+"ELAGOLIX","Nurse Practitioner",3,2019-05-01
+"ELAGOLIX","Office Manager",2,2019-05-01
+"ELAGOLIX","Physician",15,2019-05-01
+"HUMIRA","?",1,2019-05-01
+"HUMIRA","Corporate Parent",6,2019-05-01
+"HUMIRA","Group Practice",6,2019-05-01
+"HUMIRA","Hospital",6,2019-05-01
+"HUMIRA","Medical Assistant",10,2019-05-01
+"HUMIRA","Nurse",9,2019-05-01
+"HUMIRA","Nurse Practitioner",21,2019-05-01
+"HUMIRA","Office Manager",6,2019-05-01
+"HUMIRA","Other",6,2019-05-01
+"HUMIRA","Pharmacist",5,2019-05-01
+"HUMIRA","Physician",26,2019-05-01
+"HUMIRA","Physician Assistant",20,2019-05-01
+"HUMIRA","Technician",2,2019-05-01
+"HUMIRA","Unspecified Account",1,2019-05-01
+"Lupron Depot","Physician",1,2019-05-01
+"LUPRON DEPOT","Academic",1,2019-05-01
+"LUPRON DEPOT","Corporate Parent",1,2019-05-01
+"LUPRON DEPOT","Group Practice",6,2019-05-01
+"LUPRON DEPOT","Hospital",7,2019-05-01
+"LUPRON DEPOT","Nurse",7,2019-05-01
+"LUPRON DEPOT","Nurse Practitioner",1,2019-05-01
+"LUPRON DEPOT","Other",2,2019-05-01
+"LUPRON DEPOT","Pharmacy",1,2019-05-01
+"LUPRON DEPOT","Physician",2,2019-05-01
+"LUPRON DEPOT","Physician Assistant",1,2019-05-01
+"LUPRON DEPOT","Technician",1,2019-05-01
+"MAVYRET","Clinic",6,2019-05-01
+"MAVYRET","Corporate Parent",2,2019-05-01
+"MAVYRET","Correctional Facility",1,2019-05-01
+"MAVYRET","Executive",2,2019-05-01
+"MAVYRET","Group Practice",5,2019-05-01
+"MAVYRET","Hospital",4,2019-05-01
+"MAVYRET","Independent Physician Practice",1,2019-05-01
+"MAVYRET","Medical Assistant",3,2019-05-01
+"MAVYRET","Nurse",1,2019-05-01
+"MAVYRET","Nurse Practitioner",23,2019-05-01
+"MAVYRET","Other",2,2019-05-01
+"MAVYRET","Pharmacist",5,2019-05-01
+"MAVYRET","Pharmacy",3,2019-05-01
+"MAVYRET","Physician",25,2019-05-01
+"MAVYRET","Physician Assistant",23,2019-05-01
+"MAVYRET","Social Worker",1,2019-05-01
+"MAVYRET","Unspecified Account",1,2019-05-01
+"CREON","Nurse Practitioner",3,2017-06-01
+"CREON","Physician",13,2017-06-01
+"CREON","Physician Assistant",2,2017-06-01
+"HUMIRA","Admin Asst",2,2017-06-01
+"HUMIRA","Corporate Parent",2,2017-06-01
+"HUMIRA","Group Practice",5,2017-06-01
+"HUMIRA","Hospital",4,2017-06-01
+"HUMIRA","Independent Physician Practice",1,2017-06-01
+"HUMIRA","Medical Assistant",1,2017-06-01
+"HUMIRA","Nurse",5,2017-06-01
+"HUMIRA","Nurse Practitioner",20,2017-06-01
+"HUMIRA","Other",2,2017-06-01
+"HUMIRA","Pharmacist",5,2017-06-01
+"HUMIRA","Pharmacy",1,2017-06-01
+"HUMIRA","Physician",26,2017-06-01
+"HUMIRA","Physician Assistant",18,2017-06-01
+"HUMIRA","Unspecified Account",1,2017-06-01
+"LUPRON DEPOT","Admin Asst",1,2017-06-01
+"LUPRON DEPOT","Physician",4,2017-06-01
+"CREON","Clinic",1,2018-06-01
+"CREON","Group Practice",1,2018-06-01
+"CREON","Hospital",1,2018-06-01
+"CREON","Medical Assistant",1,2018-06-01
+"CREON","Nurse",1,2018-06-01
+"CREON","Nurse Practitioner",12,2018-06-01
+"CREON","Office Manager",1,2018-06-01
+"CREON","Other",1,2018-06-01
+"CREON","Physician",22,2018-06-01
+"CREON","Physician Assistant",7,2018-06-01
+"CREON","Registered Dietician",5,2018-06-01
+"ELAGOLIX","Nurse Practitioner",1,2018-06-01
+"ELAGOLIX","Physician",4,2018-06-01
+"HUMIRA","Admin Asst",5,2018-06-01
+"HUMIRA","Corporate Parent",1,2018-06-01
+"HUMIRA","Executive",1,2018-06-01
+"HUMIRA","Group Practice",1,2018-06-01
+"HUMIRA","Hospital",5,2018-06-01
+"HUMIRA","Independent Physician Practice",1,2018-06-01
+"HUMIRA","Medical Assistant",12,2018-06-01
+"HUMIRA","Nurse",10,2018-06-01
+"HUMIRA","Nurse Practitioner",22,2018-06-01
+"HUMIRA","Office Manager",3,2018-06-01
+"HUMIRA","Other",2,2018-06-01
+"HUMIRA","Pharmacist",4,2018-06-01
+"HUMIRA","Physician",24,2018-06-01
+"HUMIRA","Physician Assistant",18,2018-06-01
+"Lupron Depot","Physician",1,2018-06-01
+"LUPRON DEPOT","Group Practice",3,2018-06-01
+"LUPRON DEPOT","Hospital",5,2018-06-01
+"LUPRON DEPOT","Nurse",3,2018-06-01
+"LUPRON DEPOT","Nurse Practitioner",3,2018-06-01
+"LUPRON DEPOT","Physician",3,2018-06-01
+"MAVYRET","Corporate Parent",1,2018-06-01
+"MAVYRET","Medical Assistant",1,2018-06-01
+"MAVYRET","Nurse",1,2018-06-01
+"MAVYRET","Nurse Practitioner",15,2018-06-01
+"MAVYRET","Other",1,2018-06-01
+"MAVYRET","Pharmacist",2,2018-06-01
+"MAVYRET","Pharmacy",3,2018-06-01
+"MAVYRET","Physician",25,2018-06-01
+"MAVYRET","Physician Assistant",12,2018-06-01
+"MAVYRET","Residential",1,2018-06-01
+"MAVYRET","Technician",1,2018-06-01
+"CREON","Hospital",1,2019-06-01
+"CREON","Medical Assistant",2,2019-06-01
+"CREON","Nurse Practitioner",16,2019-06-01
+"CREON","Other",1,2019-06-01
+"CREON","Physician",23,2019-06-01
+"CREON","Physician Assistant",15,2019-06-01
+"ELAGOLIX","Medical Assistant",1,2019-06-01
+"ELAGOLIX","Physician",13,2019-06-01
+"HUMIRA","Admin Asst",4,2019-06-01
+"HUMIRA","Clinic",2,2019-06-01
+"HUMIRA","Corporate Parent",3,2019-06-01
+"HUMIRA","Group Practice",8,2019-06-01
+"HUMIRA","Hospital",10,2019-06-01
+"HUMIRA","Independent Physician Practice",1,2019-06-01
+"HUMIRA","Medical Assistant",11,2019-06-01
+"HUMIRA","Nurse",10,2019-06-01
+"HUMIRA","Nurse Practitioner",20,2019-06-01
+"HUMIRA","Office Manager",4,2019-06-01
+"HUMIRA","Other",4,2019-06-01
+"HUMIRA","Pharmacist",9,2019-06-01
+"HUMIRA","Pharmacy",1,2019-06-01
+"HUMIRA","Physician",23,2019-06-01
+"HUMIRA","Physician Assistant",19,2019-06-01
+"HUMIRA","Technician",1,2019-06-01
+"Lupron Depot","Executive",1,2019-06-01
+"Lupron Depot","Office Manager",1,2019-06-01
+"Lupron Depot","Physician",7,2019-06-01
+"Lupron Depot","Physician Assistant",1,2019-06-01
+"LUPRON DEPOT","Clinic",1,2019-06-01
+"LUPRON DEPOT","Group Practice",3,2019-06-01
+"LUPRON DEPOT","Hospital",8,2019-06-01
+"LUPRON DEPOT","Medical Assistant",1,2019-06-01
+"LUPRON DEPOT","Nurse",9,2019-06-01
+"LUPRON DEPOT","Nurse Practitioner",2,2019-06-01
+"LUPRON DEPOT","Other",3,2019-06-01
+"LUPRON DEPOT","Physician",1,2019-06-01
+"MAVYRET","Academic",1,2019-06-01
+"MAVYRET","Clinic",4,2019-06-01
+"MAVYRET","Group Practice",4,2019-06-01
+"MAVYRET","Hospital",3,2019-06-01
+"MAVYRET","Independent Physician Practice",1,2019-06-01
+"MAVYRET","Medical Assistant",3,2019-06-01
+"MAVYRET","Nurse",3,2019-06-01
+"MAVYRET","Nurse Practitioner",22,2019-06-01
+"MAVYRET","Office Manager",2,2019-06-01
+"MAVYRET","Other",2,2019-06-01
+"MAVYRET","Pharmacist",3,2019-06-01
+"MAVYRET","Pharmacy",1,2019-06-01
+"MAVYRET","Physician",25,2019-06-01
+"MAVYRET","Physician Assistant",21,2019-06-01
+"MAVYRET","Research",1,2019-06-01
+"MAVYRET","Social Worker",1,2019-06-01
+"MAVYRET","Unspecified Account",1,2019-06-01
+"HUMIRA","Nurse Practitioner",2,2016-07-01
+"HUMIRA","Physician",3,2016-07-01
+"HUMIRA","Physician Assistant",1,2016-07-01
+"CREON","Nurse Practitioner",3,2017-07-01
+"CREON","Physician",12,2017-07-01
+"CREON","Registered Dietician",1,2017-07-01
+"HUMIRA","Group Practice",2,2017-07-01
+"HUMIRA","Hospital",4,2017-07-01
+"HUMIRA","Medical Assistant",4,2017-07-01
+"HUMIRA","Nurse",3,2017-07-01
+"HUMIRA","Nurse Practitioner",18,2017-07-01
+"HUMIRA","Office Manager",1,2017-07-01
+"HUMIRA","Other",1,2017-07-01
+"HUMIRA","Pharmacist",4,2017-07-01
+"HUMIRA","Pharmacy",1,2017-07-01
+"HUMIRA","Physician",20,2017-07-01
+"HUMIRA","Physician Assistant",15,2017-07-01
+"HUMIRA","Technician",1,2017-07-01
+"LUPRON DEPOT","Physician Assistant",1,2017-07-01
+"CREON","Corporate Parent",1,2018-07-01
+"CREON","Group Practice",4,2018-07-01
+"CREON","Hospital",1,2018-07-01
+"CREON","Medical Assistant",1,2018-07-01
+"CREON","Nurse",2,2018-07-01
+"CREON","Nurse Practitioner",11,2018-07-01
+"CREON","Office Manager",1,2018-07-01
+"CREON","Other",3,2018-07-01
+"CREON","Physician",19,2018-07-01
+"CREON","Physician Assistant",11,2018-07-01
+"CREON","Registered Dietician",3,2018-07-01
+"ELAGOLIX","Physician",4,2018-07-01
+"HUMIRA","Admin Asst",1,2018-07-01
+"HUMIRA","Corporate Parent",2,2018-07-01
+"HUMIRA","Group Practice",2,2018-07-01
+"HUMIRA","Hospital",3,2018-07-01
+"HUMIRA","Independent Physician Practice",1,2018-07-01
+"HUMIRA","Medical Assistant",12,2018-07-01
+"HUMIRA","Nurse",5,2018-07-01
+"HUMIRA","Nurse Practitioner",18,2018-07-01
+"HUMIRA","Office Manager",3,2018-07-01
+"HUMIRA","Other",3,2018-07-01
+"HUMIRA","Pharmacist",4,2018-07-01
+"HUMIRA","Pharmacy",1,2018-07-01
+"HUMIRA","Physician",21,2018-07-01
+"HUMIRA","Physician Assistant",18,2018-07-01
+"Lupron Depot","Executive",1,2018-07-01
+"Lupron Depot","Office Manager",1,2018-07-01
+"Lupron Depot","Physician",5,2018-07-01
+"LUPRON DEPOT","Clinic",1,2018-07-01
+"LUPRON DEPOT","Group Practice",3,2018-07-01
+"LUPRON DEPOT","Hospital",15,2018-07-01
+"LUPRON DEPOT","Nurse",11,2018-07-01
+"LUPRON DEPOT","Nurse Practitioner",3,2018-07-01
+"LUPRON DEPOT","Other",3,2018-07-01
+"LUPRON DEPOT","Outpatient Center",1,2018-07-01
+"LUPRON DEPOT","Physician",14,2018-07-01
+"LUPRON DEPOT","Physician Assistant",2,2018-07-01
+"LUPRON DEPOT","Unspecified Account",1,2018-07-01
+"MAVYRET","Corporate Parent",1,2018-07-01
+"MAVYRET","Group Practice",1,2018-07-01
+"MAVYRET","Hospital",2,2018-07-01
+"MAVYRET","Medical Assistant",1,2018-07-01
+"MAVYRET","Nurse",5,2018-07-01
+"MAVYRET","Nurse Practitioner",16,2018-07-01
+"MAVYRET","Other",2,2018-07-01
+"MAVYRET","Pharmacist",1,2018-07-01
+"MAVYRET","Pharmacy",1,2018-07-01
+"MAVYRET","Physician",22,2018-07-01
+"MAVYRET","Physician Assistant",11,2018-07-01
+"CREON","Group Practice",2,2019-07-01
+"CREON","Hospital",1,2019-07-01
+"CREON","Medical Assistant",1,2019-07-01
+"CREON","Nurse",1,2019-07-01
+"CREON","Nurse Practitioner",17,2019-07-01
+"CREON","Office Manager",1,2019-07-01
+"CREON","Physician",25,2019-07-01
+"CREON","Physician Assistant",11,2019-07-01
+"CREON","Registered Dietician",3,2019-07-01
+"ELAGOLIX","Admin Asst",1,2019-07-01
+"ELAGOLIX","Nurse",3,2019-07-01
+"ELAGOLIX","Nurse Practitioner",7,2019-07-01
+"ELAGOLIX","Office Manager",1,2019-07-01
+"ELAGOLIX","Other",1,2019-07-01
+"ELAGOLIX","Physician",17,2019-07-01
+"HUMIRA","Admin Asst",1,2019-07-01
+"HUMIRA","Clinic",1,2019-07-01
+"HUMIRA","Corporate Parent",3,2019-07-01
+"HUMIRA","Group Practice",5,2019-07-01
+"HUMIRA","Hospital",8,2019-07-01
+"HUMIRA","Medical Assistant",10,2019-07-01
+"HUMIRA","Nurse",6,2019-07-01
+"HUMIRA","Nurse Practitioner",18,2019-07-01
+"HUMIRA","Other",4,2019-07-01
+"HUMIRA","Pharmacist",4,2019-07-01
+"HUMIRA","Pharmacy",1,2019-07-01
+"HUMIRA","Physician",23,2019-07-01
+"HUMIRA","Physician Assistant",17,2019-07-01
+"HUMIRA","Technician",2,2019-07-01
+"HUMIRA","Unspecified Account",1,2019-07-01
+"Lupron Depot","Executive",1,2019-07-01
+"Lupron Depot","Medical Assistant",1,2019-07-01
+"Lupron Depot","Nurse",1,2019-07-01
+"Lupron Depot","Nurse Practitioner",1,2019-07-01
+"Lupron Depot","Office Manager",1,2019-07-01
+"Lupron Depot","Other",1,2019-07-01
+"Lupron Depot","Physician",11,2019-07-01
+"LUPRON DEPOT","Clinic",2,2019-07-01
+"LUPRON DEPOT","Group Practice",2,2019-07-01
+"LUPRON DEPOT","Hospital",8,2019-07-01
+"LUPRON DEPOT","Nurse",7,2019-07-01
+"LUPRON DEPOT","Nurse Practitioner",3,2019-07-01
+"LUPRON DEPOT","Other",2,2019-07-01
+"LUPRON DEPOT","Pharmacist",1,2019-07-01
+"LUPRON DEPOT","Pharmacy",1,2019-07-01
+"LUPRON DEPOT","Physician",4,2019-07-01
+"LUPRON DEPOT","Physician Assistant",1,2019-07-01
+"MAVYRET","Clinic",1,2019-07-01
+"MAVYRET","Group Practice",1,2019-07-01
+"MAVYRET","Hospital",1,2019-07-01
+"MAVYRET","Medical Assistant",1,2019-07-01
+"MAVYRET","Nurse",5,2019-07-01
+"MAVYRET","Nurse Practitioner",23,2019-07-01
+"MAVYRET","Office Manager",1,2019-07-01
+"MAVYRET","Physician",25,2019-07-01
+"MAVYRET","Physician Assistant",19,2019-07-01
+"HUMIRA","Nurse Practitioner",13,2016-08-01
+"HUMIRA","Physician",22,2016-08-01
+"HUMIRA","Physician Assistant",14,2016-08-01
+"CREON","Physician",15,2017-08-01
+"HUMIRA","Admin Asst",1,2017-08-01
+"HUMIRA","Corporate Parent",1,2017-08-01
+"HUMIRA","Executive",1,2017-08-01
+"HUMIRA","Group Practice",2,2017-08-01
+"HUMIRA","Hospital",4,2017-08-01
+"HUMIRA","Medical Assistant",7,2017-08-01
+"HUMIRA","Nurse",3,2017-08-01
+"HUMIRA","Nurse Practitioner",26,2017-08-01
+"HUMIRA","Office Manager",5,2017-08-01
+"HUMIRA","Other",1,2017-08-01
+"HUMIRA","Pharmacist",5,2017-08-01
+"HUMIRA","Pharmacy",1,2017-08-01
+"HUMIRA","Physician",30,2017-08-01
+"HUMIRA","Physician Assistant",23,2017-08-01
+"LUPRON DEPOT","Nurse",1,2017-08-01
+"LUPRON DEPOT","Office Manager",1,2017-08-01
+"MAVYRET","Admin Asst",2,2017-08-01
+"MAVYRET","Medical Assistant",10,2017-08-01
+"MAVYRET","Nurse",9,2017-08-01
+"MAVYRET","Nurse Practitioner",22,2017-08-01
+"MAVYRET","Office Manager",5,2017-08-01
+"MAVYRET","Other",7,2017-08-01
+"MAVYRET","Physician",26,2017-08-01
+"MAVYRET","Physician Assistant",22,2017-08-01
+"MAVYRET","Technician",1,2017-08-01
+"CREON","Admin Asst",1,2018-08-01
+"CREON","Group Practice",3,2018-08-01
+"CREON","Medical Assistant",3,2018-08-01
+"CREON","Nurse",10,2018-08-01
+"CREON","Nurse Practitioner",18,2018-08-01
+"CREON","Other",4,2018-08-01
+"CREON","Physician",23,2018-08-01
+"CREON","Physician Assistant",15,2018-08-01
+"CREON","Registered Dietician",17,2018-08-01
+"CREON","Social Worker",2,2018-08-01
+"ELAGOLIX","Office Manager",2,2018-08-01
+"ELAGOLIX","Physician",2,2018-08-01
+"HUMIRA","Admin Asst",6,2018-08-01
+"HUMIRA","Group Practice",2,2018-08-01
+"HUMIRA","Hospital",1,2018-08-01
+"HUMIRA","Medical Assistant",11,2018-08-01
+"HUMIRA","Nurse",13,2018-08-01
+"HUMIRA","Nurse Practitioner",26,2018-08-01
+"HUMIRA","Office Manager",5,2018-08-01
+"HUMIRA","Other",4,2018-08-01
+"HUMIRA","Pharmacist",4,2018-08-01
+"HUMIRA","Physician",27,2018-08-01
+"HUMIRA","Physician Assistant",22,2018-08-01
+"HUMIRA","Technician",2,2018-08-01
+"LUPRON DEPOT","Academic",1,2018-08-01
+"LUPRON DEPOT","Admin Asst",1,2018-08-01
+"LUPRON DEPOT","Clinic",2,2018-08-01
+"LUPRON DEPOT","Corporate Parent",1,2018-08-01
+"LUPRON DEPOT","Group Practice",7,2018-08-01
+"LUPRON DEPOT","Hospital",6,2018-08-01
+"LUPRON DEPOT","Medical Assistant",4,2018-08-01
+"LUPRON DEPOT","Nurse",14,2018-08-01
+"LUPRON DEPOT","Nurse Practitioner",8,2018-08-01
+"LUPRON DEPOT","Office Manager",3,2018-08-01
+"LUPRON DEPOT","Other",4,2018-08-01
+"LUPRON DEPOT","Pharmacy",1,2018-08-01
+"LUPRON DEPOT","Physician",21,2018-08-01
+"LUPRON DEPOT","Physician Assistant",2,2018-08-01
+"MAVYRET","Medical Assistant",4,2018-08-01
+"MAVYRET","Nurse Practitioner",16,2018-08-01
+"MAVYRET","Physician",24,2018-08-01
+"MAVYRET","Physician Assistant",11,2018-08-01
+"CREON","Corporate Parent",1,2019-08-01
+"CREON","Dentist",1,2019-08-01
+"CREON","Group Practice",1,2019-08-01
+"CREON","Medical Assistant",1,2019-08-01
+"CREON","Nurse Practitioner",19,2019-08-01
+"CREON","Office Manager",1,2019-08-01
+"CREON","Pharmacist",1,2019-08-01
+"CREON","Physician",26,2019-08-01
+"CREON","Physician Assistant",16,2019-08-01
+"CREON","Registered Dietician",1,2019-08-01
+"ELAGOLIX","Executive",1,2019-08-01
+"ELAGOLIX","Nurse Practitioner",1,2019-08-01
+"ELAGOLIX","Office Manager",2,2019-08-01
+"ELAGOLIX","Physician",11,2019-08-01
+"HUMIRA","?",1,2019-08-01
+"HUMIRA","Admin Asst",4,2019-08-01
+"HUMIRA","Clinic",3,2019-08-01
+"HUMIRA","Group Practice",17,2019-08-01
+"HUMIRA","Hospital",9,2019-08-01
+"HUMIRA","Independent Physician Practice",3,2019-08-01
+"HUMIRA","Medical Assistant",16,2019-08-01
+"HUMIRA","Nurse",11,2019-08-01
+"HUMIRA","Nurse Practitioner",24,2019-08-01
+"HUMIRA","Office Manager",6,2019-08-01
+"HUMIRA","Other",9,2019-08-01
+"HUMIRA","Pharmacist",4,2019-08-01
+"HUMIRA","Physician",27,2019-08-01
+"HUMIRA","Physician Assistant",22,2019-08-01
+"HUMIRA","Technician",1,2019-08-01
+"HUMIRA","Unspecified Account",1,2019-08-01
+"Lupron Depot","Nurse",1,2019-08-01
+"Lupron Depot","Physician",6,2019-08-01
+"LUPRON DEPOT","Clinic",2,2019-08-01
+"LUPRON DEPOT","Corporate Parent",2,2019-08-01
+"LUPRON DEPOT","Group Practice",4,2019-08-01
+"LUPRON DEPOT","Hospital",13,2019-08-01
+"LUPRON DEPOT","Medical Assistant",3,2019-08-01
+"LUPRON DEPOT","Nurse",14,2019-08-01
+"LUPRON DEPOT","Nurse Practitioner",3,2019-08-01
+"LUPRON DEPOT","Office Manager",1,2019-08-01
+"LUPRON DEPOT","Other",3,2019-08-01
+"LUPRON DEPOT","Pharmacy",1,2019-08-01
+"LUPRON DEPOT","Physician",2,2019-08-01
+"LUPRON DEPOT","Physician Assistant",1,2019-08-01
+"MAVYRET","?",1,2019-08-01
+"MAVYRET","Clinic",3,2019-08-01
+"MAVYRET","Corporate Parent",1,2019-08-01
+"MAVYRET","Group Practice",3,2019-08-01
+"MAVYRET","Hospital",2,2019-08-01
+"MAVYRET","Medical Assistant",1,2019-08-01
+"MAVYRET","Nurse",2,2019-08-01
+"MAVYRET","Nurse Practitioner",21,2019-08-01
+"MAVYRET","Office Manager",1,2019-08-01
+"MAVYRET","Other",2,2019-08-01
+"MAVYRET","Pharmacist",1,2019-08-01
+"MAVYRET","Pharmacy",1,2019-08-01
+"MAVYRET","Physician",24,2019-08-01
+"MAVYRET","Physician Assistant",18,2019-08-01
+"HUMIRA","Nurse Practitioner",10,2016-09-01
+"HUMIRA","Physician",20,2016-09-01
+"HUMIRA","Physician Assistant",12,2016-09-01
+"CREON","Nurse",2,2017-09-01
+"CREON","Nurse Practitioner",8,2017-09-01
+"CREON","Physician",19,2017-09-01
+"CREON","Physician Assistant",6,2017-09-01
+"HUMIRA","Admin Asst",2,2017-09-01
+"HUMIRA","Corporate Parent",2,2017-09-01
+"HUMIRA","Group Practice",1,2017-09-01
+"HUMIRA","Hospital",3,2017-09-01
+"HUMIRA","Medical Assistant",9,2017-09-01
+"HUMIRA","Nurse",10,2017-09-01
+"HUMIRA","Nurse Practitioner",20,2017-09-01
+"HUMIRA","Office Manager",2,2017-09-01
+"HUMIRA","Other",7,2017-09-01
+"HUMIRA","Pharmacist",4,2017-09-01
+"HUMIRA","Physician",25,2017-09-01
+"HUMIRA","Physician Assistant",18,2017-09-01
+"LUPRON DEPOT","Physician",1,2017-09-01
+"MAVYRET","Medical Assistant",3,2017-09-01
+"MAVYRET","Nurse",2,2017-09-01
+"MAVYRET","Nurse Practitioner",15,2017-09-01
+"MAVYRET","Other",1,2017-09-01
+"MAVYRET","Physician",24,2017-09-01
+"MAVYRET","Physician Assistant",10,2017-09-01
+"CREON","?",1,2018-09-01
+"CREON","Admin Asst",1,2018-09-01
+"CREON","Corporate Parent",2,2018-09-01
+"CREON","Group Practice",4,2018-09-01
+"CREON","Medical Assistant",1,2018-09-01
+"CREON","Nurse",8,2018-09-01
+"CREON","Nurse Practitioner",13,2018-09-01
+"CREON","Office Manager",2,2018-09-01
+"CREON","Other",2,2018-09-01
+"CREON","Physician",22,2018-09-01
+"CREON","Physician Assistant",10,2018-09-01
+"CREON","Registered Dietician",11,2018-09-01
+"CREON","Social Worker",4,2018-09-01
+"ELAGOLIX","?",1,2018-09-01
+"ELAGOLIX","Nurse Practitioner",1,2018-09-01
+"ELAGOLIX","Physician",2,2018-09-01
+"HUMIRA","Admin Asst",6,2018-09-01
+"HUMIRA","Corporate Parent",2,2018-09-01
+"HUMIRA","Executive",1,2018-09-01
+"HUMIRA","Group Practice",3,2018-09-01
+"HUMIRA","Hospital",6,2018-09-01
+"HUMIRA","Medical Assistant",10,2018-09-01
+"HUMIRA","Nurse",17,2018-09-01
+"HUMIRA","Nurse Practitioner",20,2018-09-01
+"HUMIRA","Office Manager",1,2018-09-01
+"HUMIRA","Other",3,2018-09-01
+"HUMIRA","Pharmacist",8,2018-09-01
+"HUMIRA","Physician",24,2018-09-01
+"HUMIRA","Physician Assistant",19,2018-09-01
+"HUMIRA","Technician",1,2018-09-01
+"Lupron Depot","Nurse",1,2018-09-01
+"Lupron Depot","Physician",3,2018-09-01
+"LUPRON DEPOT","Corporate Parent",1,2018-09-01
+"LUPRON DEPOT","Group Practice",3,2018-09-01
+"LUPRON DEPOT","Hospital",5,2018-09-01
+"LUPRON DEPOT","Medical Assistant",1,2018-09-01
+"LUPRON DEPOT","Nurse",5,2018-09-01
+"LUPRON DEPOT","Nurse Practitioner",1,2018-09-01
+"LUPRON DEPOT","Other",1,2018-09-01
+"LUPRON DEPOT","Physician",7,2018-09-01
+"MAVYRET","Clinic",1,2018-09-01
+"MAVYRET","Corporate Parent",1,2018-09-01
+"MAVYRET","Group Practice",1,2018-09-01
+"MAVYRET","Hospital",1,2018-09-01
+"MAVYRET","Medical Assistant",1,2018-09-01
+"MAVYRET","Nurse",1,2018-09-01
+"MAVYRET","Nurse Practitioner",13,2018-09-01
+"MAVYRET","Other",1,2018-09-01
+"MAVYRET","Outpatient Center",1,2018-09-01
+"MAVYRET","Pharmacist",1,2018-09-01
+"MAVYRET","Pharmacy",1,2018-09-01
+"MAVYRET","Physician",21,2018-09-01
+"MAVYRET","Physician Assistant",8,2018-09-01
+"CREON","Corporate Parent",3,2019-09-01
+"CREON","Group Practice",1,2019-09-01
+"CREON","Nurse",2,2019-09-01
+"CREON","Nurse Practitioner",14,2019-09-01
+"CREON","Pharmacist",2,2019-09-01
+"CREON","Physician",20,2019-09-01
+"CREON","Physician Assistant",13,2019-09-01
+"CREON","Registered Dietician",1,2019-09-01
+"ELAGOLIX","Nurse Practitioner",1,2019-09-01
+"ELAGOLIX","Office Manager",1,2019-09-01
+"ELAGOLIX","Physician",5,2019-09-01
+"HUMIRA","?",2,2019-09-01
+"HUMIRA","Academic",1,2019-09-01
+"HUMIRA","Admin Asst",6,2019-09-01
+"HUMIRA","Clinic",2,2019-09-01
+"HUMIRA","Corporate Parent",1,2019-09-01
+"HUMIRA","Executive",2,2019-09-01
+"HUMIRA","Group Practice",16,2019-09-01
+"HUMIRA","Hospital",7,2019-09-01
+"HUMIRA","Independent Physician Practice",4,2019-09-01
+"HUMIRA","Medical Assistant",15,2019-09-01
+"HUMIRA","Nurse",9,2019-09-01
+"HUMIRA","Nurse Practitioner",19,2019-09-01
+"HUMIRA","Office Manager",7,2019-09-01
+"HUMIRA","Other",8,2019-09-01
+"HUMIRA","Pharmacist",8,2019-09-01
+"HUMIRA","Pharmacy",6,2019-09-01
+"HUMIRA","Physician",23,2019-09-01
+"HUMIRA","Physician Assistant",21,2019-09-01
+"HUMIRA","Technician",1,2019-09-01
+"HUMIRA","Unspecified Account",1,2019-09-01
+"Lupron Depot","Nurse",1,2019-09-01
+"LUPRON DEPOT","Academic",1,2019-09-01
+"LUPRON DEPOT","Admin Asst",4,2019-09-01
+"LUPRON DEPOT","Clinic",2,2019-09-01
+"LUPRON DEPOT","Group Practice",2,2019-09-01
+"LUPRON DEPOT","Hospital",14,2019-09-01
+"LUPRON DEPOT","Medical Assistant",2,2019-09-01
+"LUPRON DEPOT","Nurse",8,2019-09-01
+"LUPRON DEPOT","Other",3,2019-09-01
+"LUPRON DEPOT","Pharmacy",1,2019-09-01
+"LUPRON DEPOT","Physician",5,2019-09-01
+"LUPRON DEPOT","Physician Assistant",1,2019-09-01
+"MAVYRET","Clinic",2,2019-09-01
+"MAVYRET","Corporate Parent",1,2019-09-01
+"MAVYRET","Group Practice",3,2019-09-01
+"MAVYRET","Hospital",3,2019-09-01
+"MAVYRET","Nurse",1,2019-09-01
+"MAVYRET","Nurse Practitioner",17,2019-09-01
+"MAVYRET","Office Manager",2,2019-09-01
+"MAVYRET","Other",3,2019-09-01
+"MAVYRET","Pharmacist",2,2019-09-01
+"MAVYRET","Pharmacy",2,2019-09-01
+"MAVYRET","Physician",18,2019-09-01
+"MAVYRET","Physician Assistant",13,2019-09-01
+"CREON","Nurse Practitioner",1,2016-10-01
+"CREON","Physician",13,2016-10-01
+"CREON","Physician Assistant",1,2016-10-01
+"HUMIRA","Nurse Practitioner",11,2016-10-01
+"HUMIRA","Physician",21,2016-10-01
+"HUMIRA","Physician Assistant",13,2016-10-01
+"CREON","Medical Assistant",1,2017-10-01
+"CREON","Nurse",3,2017-10-01
+"CREON","Nurse Practitioner",9,2017-10-01
+"CREON","Physician",22,2017-10-01
+"CREON","Physician Assistant",10,2017-10-01
+"CREON","Registered Dietician",1,2017-10-01
+"HUMIRA","Admin Asst",8,2017-10-01
+"HUMIRA","Corporate Parent",4,2017-10-01
+"HUMIRA","Group Practice",3,2017-10-01
+"HUMIRA","Hospital",7,2017-10-01
+"HUMIRA","Medical Assistant",17,2017-10-01
+"HUMIRA","Nurse",14,2017-10-01
+"HUMIRA","Nurse Practitioner",26,2017-10-01
+"HUMIRA","Office Manager",5,2017-10-01
+"HUMIRA","Other",14,2017-10-01
+"HUMIRA","Pharmacist",6,2017-10-01
+"HUMIRA","Pharmacy",3,2017-10-01
+"HUMIRA","Physician",29,2017-10-01
+"HUMIRA","Physician Assistant",24,2017-10-01
+"HUMIRA","Technician",1,2017-10-01
+"LUPRON DEPOT","Medical Assistant",3,2017-10-01
+"LUPRON DEPOT","Nurse",2,2017-10-01
+"LUPRON DEPOT","Nurse Practitioner",2,2017-10-01
+"LUPRON DEPOT","Physician",17,2017-10-01
+"MAVYRET","Group Practice",1,2017-10-01
+"MAVYRET","Hospital",1,2017-10-01
+"MAVYRET","Managed Care Organization",1,2017-10-01
+"MAVYRET","Medical Assistant",1,2017-10-01
+"MAVYRET","Nurse",1,2017-10-01
+"MAVYRET","Nurse Practitioner",15,2017-10-01
+"MAVYRET","Office Manager",1,2017-10-01
+"MAVYRET","Other",3,2017-10-01
+"MAVYRET","Pharmacist",2,2017-10-01
+"MAVYRET","Pharmacy",1,2017-10-01
+"MAVYRET","Physician",25,2017-10-01
+"MAVYRET","Physician Assistant",15,2017-10-01
+"MAVYRET","Unspecified Account",1,2017-10-01
+"CREON","Corporate Parent",2,2018-10-01
+"CREON","Group Practice",3,2018-10-01
+"CREON","Hospital",2,2018-10-01
+"CREON","Medical Assistant",2,2018-10-01
+"CREON","Nurse",2,2018-10-01
+"CREON","Nurse Practitioner",18,2018-10-01
+"CREON","Office Manager",1,2018-10-01
+"CREON","Other",3,2018-10-01
+"CREON","Pharmacist",1,2018-10-01
+"CREON","Physician",23,2018-10-01
+"CREON","Physician Assistant",12,2018-10-01
+"CREON","Registered Dietician",6,2018-10-01
+"ELAGOLIX","Admin Asst",1,2018-10-01
+"ELAGOLIX","Nurse",1,2018-10-01
+"ELAGOLIX","Nurse Practitioner",1,2018-10-01
+"ELAGOLIX","Physician",3,2018-10-01
+"HUMIRA","Admin Asst",3,2018-10-01
+"HUMIRA","Group Practice",3,2018-10-01
+"HUMIRA","Hospital",5,2018-10-01
+"HUMIRA","Medical Assistant",2,2018-10-01
+"HUMIRA","Nurse",7,2018-10-01
+"HUMIRA","Nurse Practitioner",20,2018-10-01
+"HUMIRA","Office Manager",1,2018-10-01
+"HUMIRA","Other",2,2018-10-01
+"HUMIRA","Pharmacist",3,2018-10-01
+"HUMIRA","Physician",25,2018-10-01
+"HUMIRA","Physician Assistant",22,2018-10-01
+"HUMIRA","Technician",1,2018-10-01
+"Lupron Depot","Office Manager",2,2018-10-01
+"Lupron Depot","Physician",11,2018-10-01
+"LUPRON DEPOT","Corporate Parent",2,2018-10-01
+"LUPRON DEPOT","Group Practice",4,2018-10-01
+"LUPRON DEPOT","Hospital",16,2018-10-01
+"LUPRON DEPOT","Nurse",6,2018-10-01
+"LUPRON DEPOT","Nurse Practitioner",7,2018-10-01
+"LUPRON DEPOT","Office Manager",2,2018-10-01
+"LUPRON DEPOT","Other",2,2018-10-01
+"LUPRON DEPOT","Physician",16,2018-10-01
+"LUPRON DEPOT","Physician Assistant",2,2018-10-01
+"LUPRON DEPOT","Public Sector",1,2018-10-01
+"MAVYRET","Group Practice",1,2018-10-01
+"MAVYRET","Hospital",1,2018-10-01
+"MAVYRET","Medical Assistant",1,2018-10-01
+"MAVYRET","Nurse",2,2018-10-01
+"MAVYRET","Nurse Practitioner",17,2018-10-01
+"MAVYRET","Pharmacist",1,2018-10-01
+"MAVYRET","Pharmacy",1,2018-10-01
+"MAVYRET","Physician",24,2018-10-01
+"MAVYRET","Physician Assistant",14,2018-10-01
+"MAVYRET","Unspecified Account",1,2018-10-01
+"CREON","Nurse Practitioner",1,2016-11-01
+"CREON","Physician",11,2016-11-01
+"HUMIRA","Nurse Practitioner",11,2016-11-01
+"HUMIRA","Physician",20,2016-11-01
+"HUMIRA","Physician Assistant",11,2016-11-01
+"CREON","Medical Assistant",1,2017-11-01
+"CREON","Nurse",2,2017-11-01
+"CREON","Nurse Practitioner",6,2017-11-01
+"CREON","Physician",19,2017-11-01
+"CREON","Physician Assistant",3,2017-11-01
+"CREON","Registered Dietician",1,2017-11-01
+"HUMIRA","Admin Asst",2,2017-11-01
+"HUMIRA","Corporate Parent",3,2017-11-01
+"HUMIRA","Group Practice",3,2017-11-01
+"HUMIRA","Hospital",3,2017-11-01
+"HUMIRA","Independent Physician Practice",1,2017-11-01
+"HUMIRA","Medical Assistant",7,2017-11-01
+"HUMIRA","Nurse",10,2017-11-01
+"HUMIRA","Nurse Practitioner",22,2017-11-01
+"HUMIRA","Office Manager",2,2017-11-01
+"HUMIRA","Other",3,2017-11-01
+"HUMIRA","Pharmacist",3,2017-11-01
+"HUMIRA","Physician",28,2017-11-01
+"HUMIRA","Physician Assistant",20,2017-11-01
+"LUPRON DEPOT","Medical Assistant",1,2017-11-01
+"LUPRON DEPOT","Nurse",1,2017-11-01
+"LUPRON DEPOT","Physician",6,2017-11-01
+"MAVYRET","Nurse Practitioner",6,2017-11-01
+"MAVYRET","Physician",19,2017-11-01
+"MAVYRET","Physician Assistant",7,2017-11-01
+"CREON","Corporate Parent",1,2018-11-01
+"CREON","Group Practice",1,2018-11-01
+"CREON","Nurse Practitioner",13,2018-11-01
+"CREON","Other",3,2018-11-01
+"CREON","Physician",21,2018-11-01
+"CREON","Physician Assistant",10,2018-11-01
+"CREON","Registered Dietician",1,2018-11-01
+"ELAGOLIX","Physician",5,2018-11-01
+"ELAGOLIX","Physician Assistant",1,2018-11-01
+"HUMIRA","?",1,2018-11-01
+"HUMIRA","Admin Asst",1,2018-11-01
+"HUMIRA","Corporate Parent",2,2018-11-01
+"HUMIRA","Group Practice",2,2018-11-01
+"HUMIRA","Hospital",3,2018-11-01
+"HUMIRA","Medical Assistant",2,2018-11-01
+"HUMIRA","Nurse",7,2018-11-01
+"HUMIRA","Nurse Practitioner",22,2018-11-01
+"HUMIRA","Office Manager",1,2018-11-01
+"HUMIRA","Other",1,2018-11-01
+"HUMIRA","Pharmacist",3,2018-11-01
+"HUMIRA","Physician",25,2018-11-01
+"HUMIRA","Physician Assistant",19,2018-11-01
+"Lupron Depot","Physician",4,2018-11-01
+"LUPRON DEPOT","Group Practice",5,2018-11-01
+"LUPRON DEPOT","Hospital",9,2018-11-01
+"LUPRON DEPOT","Medical Assistant",1,2018-11-01
+"LUPRON DEPOT","Nurse",1,2018-11-01
+"LUPRON DEPOT","Nurse Practitioner",3,2018-11-01
+"LUPRON DEPOT","Office Manager",1,2018-11-01
+"LUPRON DEPOT","Physician",8,2018-11-01
+"MAVYRET","Medical Assistant",1,2018-11-01
+"MAVYRET","Nurse Practitioner",17,2018-11-01
+"MAVYRET","Other",1,2018-11-01
+"MAVYRET","Physician",20,2018-11-01
+"MAVYRET","Physician Assistant",11,2018-11-01
+"MAVYRET","Registered Dietician",1,2018-11-01
+"CREON","Physician",6,2016-12-01
+"HUMIRA","Nurse Practitioner",7,2016-12-01
+"HUMIRA","Physician",13,2016-12-01
+"HUMIRA","Physician Assistant",4,2016-12-01
+"CREON","Nurse Practitioner",2,2017-12-01
+"CREON","Other",1,2017-12-01
+"CREON","Physician",10,2017-12-01
+"CREON","Physician Assistant",2,2017-12-01
+"CREON","Registered Dietician",2,2017-12-01
+"CREON","Technician",1,2017-12-01
+"HUMIRA","Admin Asst",3,2017-12-01
+"HUMIRA","Medical Assistant",5,2017-12-01
+"HUMIRA","Nurse",4,2017-12-01
+"HUMIRA","Nurse Practitioner",13,2017-12-01
+"HUMIRA","Office Manager",2,2017-12-01
+"HUMIRA","Other",2,2017-12-01
+"HUMIRA","Physician",16,2017-12-01
+"HUMIRA","Physician Assistant",15,2017-12-01
+"LUPRON DEPOT","Physician",2,2017-12-01
+"MAVYRET","Medical Assistant",1,2017-12-01
+"MAVYRET","Nurse",1,2017-12-01
+"MAVYRET","Nurse Practitioner",6,2017-12-01
+"MAVYRET","Physician",11,2017-12-01
+"MAVYRET","Physician Assistant",3,2017-12-01
+"CREON","Nurse Practitioner",8,2018-12-01
+"CREON","Physician",14,2018-12-01
+"CREON","Physician Assistant",7,2018-12-01
+"ELAGOLIX","Nurse Practitioner",1,2018-12-01
+"ELAGOLIX","Physician",7,2018-12-01
+"HUMIRA","Corporate Parent",2,2018-12-01
+"HUMIRA","Executive",1,2018-12-01
+"HUMIRA","Group Practice",2,2018-12-01
+"HUMIRA","Hospital",2,2018-12-01
+"HUMIRA","Medical Assistant",2,2018-12-01
+"HUMIRA","Nurse",1,2018-12-01
+"HUMIRA","Nurse Practitioner",16,2018-12-01
+"HUMIRA","Pharmacist",3,2018-12-01
+"HUMIRA","Physician",18,2018-12-01
+"HUMIRA","Physician Assistant",16,2018-12-01
+"Lupron Depot","Physician",2,2018-12-01
+"LUPRON DEPOT","Hospital",7,2018-12-01
+"LUPRON DEPOT","Medical Assistant",1,2018-12-01
+"LUPRON DEPOT","Nurse",3,2018-12-01
+"LUPRON DEPOT","Physician",6,2018-12-01
+"LUPRON DEPOT","Physician Assistant",1,2018-12-01
+"MAVYRET","Medical Assistant",2,2018-12-01
+"MAVYRET","Nurse",1,2018-12-01
+"MAVYRET","Nurse Practitioner",5,2018-12-01
+"MAVYRET","Office Manager",1,2018-12-01
+"MAVYRET","Other",1,2018-12-01
+"MAVYRET","Physician",14,2018-12-01
+"MAVYRET","Physician Assistant",5,2018-12-01
